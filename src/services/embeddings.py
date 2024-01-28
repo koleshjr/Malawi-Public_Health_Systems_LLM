@@ -1,6 +1,5 @@
 import os 
-from langchain_openai import OpenAIEmbeddings
-from langchain_google_genai import GoogleGenerativeAIEmbeddings
+from langchain_community.embeddings import OllamaEmbeddings, GPT4AllEmbeddings, FastEmbedEmbeddings
 from dotenv import load_dotenv
 
 class Embeddings:
@@ -9,11 +8,12 @@ class Embeddings:
         self.embedding_provider = embedding_provider
 
     def get_embedding_function(self):
-        if self.embedding_provider == 'openai':
-            return OpenAIEmbeddings(openai_api_key=os.getenv('OPENAI_API_KEY'))
-        elif self.embedding_provider == 'google':
-            return GoogleGenerativeAIEmbeddings(model = 'models/embedding-001', google_api_key=os.getenv('GOOGLE_API_KEY'))
-        
+        if self.embedding_provider == 'qdrant':
+            return FastEmbedEmbeddings()
+        elif self.embedding_provider == 'gpt4all':
+            return GPT4AllEmbeddings()
+        elif self.embedding_provider == 'ollama':
+            return OllamaEmbeddings()
         else:
             raise Exception("Invalid embedding provider we currently support only openai and google embeddings")
         

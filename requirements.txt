@@ -112,7 +112,7 @@ typing_extensions==4.9.0
 tzdata==2023.4
 urllib3==2.1.0
 uvicorn==0.25.0
-git+https://github.com/gaojiuli/gain/
+uvloop
 watchfiles==0.21.0
 websocket-client==1.7.0
 websockets==12.0

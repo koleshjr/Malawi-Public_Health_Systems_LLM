@@ -16,7 +16,7 @@ def prepare_context_data(folder_path: str):
         for i in range(1, 7):
             if str(i) in file:
                 # Create a DataFrame for each i with the format book_i
-                df = pd.read_csv(os.path.join(folder_path, file))
+                df = pd.read_excel(os.path.join(folder_path, file))
                 df.columns = ['paragraph', 'content']
                 df['filename'] = f"TG Booklet {i}"
                 dfs.append(df)
@@ -33,6 +33,9 @@ def prepare_context_data(folder_path: str):
 
     return merged_df[['context']]
 
+def load_test_data(test_filepath: str):
+    df_test = pd.read_csv(test_filepath)
+    return df_test
 
 
 
