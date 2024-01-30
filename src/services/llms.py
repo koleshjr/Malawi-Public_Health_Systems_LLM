@@ -40,21 +40,22 @@ class Llms:
                 del tokenizer
                 torch.cuda.empty_cache()
 
-                tokenizer = AutoTokenizer.from_pretrained("src/models/" + model_id + "-tokenizer")
-                model = AutoModelForCausalLM.from_pretrained("src/models/" + model_id + "-model", low_cpu_mem_usage=True, torch_dtype=torch.float16)
-                pipe = pipeline("text-generation", model=model, tokenizer=tokenizer, max_new_tokens=1000)
-                hf  = HuggingFacePipeline(pipeline = pipe, model_kwargs = {'temperature': 0})
+                tokenizer = AutoTokenizer.from_pretrained("src/models/" + model_id + "-tokenizer", trust_remote_code = True)
+                model = AutoModelForCausalLM.from_pretrained("src/models/" + model_id + "-model", torch_dtype=torch.float32, trust_remote_code = True, device_map ="auto")
+                pipe = pipeline("text-generation", tokenizer = tokenizer, model = model, max_new_tokens = 1024, pad_token_id = tokenizer.eos_token_id, eos_token_id = tokenizer.eos_token_id, device_map = "auto")
+                hf  = HuggingFacePipeline(pipeline = pipe)
                 return hf
             else:
-                tokenizer = AutoTokenizer.from_pretrained("src/models/" + self.model_name + "-tokenizer")
-                model = AutoModelForCausalLM.from_pretrained("src/models/" + self.model_name + "-model", low_cpu_mem_usage=True, torch_dtype=torch.float16)
-                pipe = pipeline("text-generation", model=model, tokenizer=tokenizer, max_new_tokens=1000)
-                hf  = HuggingFacePipeline(pipeline = pipe, model_kwargs = {'temperature': 0})
+                tokenizer = AutoTokenizer.from_pretrained("src/models/" + self.model_name + "-tokenizer", trust_remote_code = True)
+                model = AutoModelForCausalLM.from_pretrained("src/models/" + self.model_name + "-model", torch_dtype=torch.float32, trust_remote_code = True, device_map ="auto")
+                pipe = pipeline("text-generation", tokenizer = tokenizer, model = model, max_new_tokens = 1024, pad_token_id = tokenizer.eos_token_id, eos_token_id = tokenizer.eos_token_id, device_map = "auto")
+                hf  = HuggingFacePipeline(pipeline = pipe)
                 return hf
+
         elif self.model_provider == "ctransformers":
             local_llm = "src/models/zephyr-7b-alpha.Q4_0.gguf"
             config = {
-                "max_new_tokens": 512,
+                "max_new_tokens": 1024,
                 "repetition_penalty": 1.1,
                 "temperature": 0,
                 "top_k": 50,
@@ -68,7 +69,16 @@ class Llms:
             )
 
             return llm
-            
+        
+        elif self.model_provider == "hf_local_pass":
+
+            hf = HuggingFacePipeline.from_model_id(
+                model_id= self.model_name,
+                task="text-generation",
+                pipeline_kwargs={"max_new_tokens": 1024},
+            )
+            return hf
+                        
 
         else:
             raise Exception("Invalid model provider we currently support only ollama")
