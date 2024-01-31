@@ -6,7 +6,8 @@ warnings.filterwarnings("ignore")
 def prepare_train_examples(train_filepath: str)-> pd.DataFrame:
     train = pd.read_csv(train_filepath)
     train['examples'] = "Question: " + train['Question Text'] + ", Answer: " + train['Question Answer'] + ", Filename: " + train['Reference Document'] + ", Paragraph(s) Number: " + train['Paragraph(s) Number'] + ", Keywords: " + train['Keywords']
-    return train['examples'][0: 15]
+    train[['examples']].to_csv("src/data/train_examples.csv", index=False)
+    return train['examples'][0: 4]
 
 def prepare_context_data(folder_path: str):
     # Initialize an empty list to store DataFrames
