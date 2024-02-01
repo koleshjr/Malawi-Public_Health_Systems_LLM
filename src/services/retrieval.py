@@ -9,10 +9,10 @@ from langchain_core.output_parsers import JsonOutputParser, StrOutputParser
 from langchain_core.pydantic_v1 import BaseModel, Field
 
 class RagOutput(BaseModel):
-    question_answer: str = Field(description="The answer to the question")
+    answer: str = Field(description="The answer to the question")
     filename: str = Field(description="The filename of the document where the answer was found")
     paragraph: str = Field(description="The paragraph(s) Number where the answer was found")
-    keywords: str = Field(description="Important keywords from the document")
+    keywords: str = Field(description="Important comma separated keywords from the context where the answer was found")
 
 
 class Retrieval:
@@ -33,7 +33,11 @@ class Retrieval:
         )
 
         if self.vector_store == 'chroma':
-            vector_index = Chroma(persist_directory = self.index_name, embedding_function = embedding_function).as_retriever(search_kwargs = {"k": self.top_k})
+            vector_index = Chroma(persist_directory = self.index_name, embedding_function = embedding_function).as_retriever(search_type="similarity_score_threshold",
+            search_kwargs={
+                "k": self.top_k,
+                "score_threshold": 0.5,
+            },)
         elif self.vector_store == 'milvus':
             vector_index = Milvus(embedding_function, connection_args = {"host": os.getenv('MILVUS_HOST'), "port": os.getenv('MILVUS_PORT'), "collection_name": self.index_name}).as_retriever(search_kwargs = {"k": self.top_k})
         elif self.vector_store == 'faiss':

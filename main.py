@@ -3,7 +3,7 @@ from src.services.retrieval import Retrieval
 from src.services.embeddings import Embeddings
 from src.services.llms import Llms
 from src.helpers.config import Config
-from src.helpers.utils import prepare_train_examples, load_test_data
+from src.helpers.utils import load_test_data, prepare_submit_files
 from langchain_core.runnables import ConfigurableField 
 
 
@@ -34,14 +34,16 @@ if __name__ == "__main__":
             print(f"Answer: {answer}")
             print()
 
-            df_sub.loc[row.Index, 'answer'] = answer["question_answer"]
+            df_sub.loc[row.Index, 'answer'] = answer["answer"]
             df_sub.loc[row.Index, 'filename'] = answer["filename"]
             df_sub.loc[row.Index, 'paragraph'] = answer["paragraph"]
             df_sub.loc[row.Index, 'keywords'] = answer["keywords"]
 
-            df_sub.to_csv("src/competition_data/submission_mistral.csv", index=False)
+            df_sub.to_csv("src/competition_data/submission_gemini_progress.csv", index=False)
             print("<--------------------------------------------------------------------------------------->")
         except Exception as e:
             print(f"Error: {e} in row: {row}")
+
+    prepare_submit_files(df_sub).to_csv("src/competition_data/submission_gemini.csv", index=False)
 
     

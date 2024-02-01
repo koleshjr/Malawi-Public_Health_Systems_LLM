@@ -13,7 +13,7 @@ class Config:
 
     Question: 
         {query}
-    Retrieved Contexts to use to answer the question:
+    Rely on these retrieved contexts to answer the question. Don't try to make up an answer if the context doesn't contain the answer.
         {context}
     Examples to show how to answer the question:
         "Question": Is HMIS an abbreviation mentioned in the TG, and what does it stand for?
@@ -28,7 +28,7 @@ class Config:
         helpful answer:
                 Answer: Problems with reporting should be addressed as soon as they are identified through monitoring, and solutions should be developed immediately to correct poor performance and improve data quality and reporting.,
                 Filename: TG Booklet 4,
-                Paragraph(s) Number: 241-244,
+                Paragraph: 241-244,
                 Keywords: Problem Addressing, Reporting Issues, Solution Development, Monitoring, Poor Performance Correction, Data Quality Improvement",
                 
 
@@ -36,12 +36,11 @@ class Config:
         helpful answer:
                 Answer: Attack rates are highest among children aged less than 15 years in Bacterial Meningitis, while the text does not provide specific information on age-related attack rates for Chikungunya and Buruli Ulcer.,
                 Filename: TG Booklet 6,
-                Paragraph(s) Number: 142, 154,
+                Paragraph: 142, 154,
                 Keywords: Attack Rates: Bacterial Meningitis, Chikungunya, BU",
 
-        
-    Now its your turn to extract the answer, the filename, the paragraph(s) number and the keywords from the retrived context into one dictionary with the following foramt \n{format_instructions}
-    and do not include any other additional information. 
+    Now your turn to answer the question and you must provide the answer in this format\n{format_instructions}
+
 
 """
 

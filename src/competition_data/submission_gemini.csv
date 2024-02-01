@@ -1,0 +1,2030 @@
+ID,Target
+Q4_question_answer,An unusual event is a cluster or single event that may be unusual for a certain time or for a specific community.
+Q4_reference_document,TG Booklet 2
+Q4_paragraph(s)_number,434
+Q4_keywords,"Community Event-Based Surveillance (CEBS), Unusual Event Definition"
+Q5_question_answer,"Community Based Surveillance (CBS) refers to the systematic and organized detection and reporting of public health events within the community by community members. This approach involves designated individuals, often referred to as focal persons, who are responsible for identifying and reporting cases or events to their local health delivery points."
+Q5_reference_document,"TG Booklet 1, Paragraph(s) Number: 86, Content: Community Based Surveillance (CBS):  Defined as the systematic detection and reporting of events of public health significance within the community by community members. CBS incorporates both Indicator-based and Event-based surveillance methods.  In CBS, there are identified focal person(s) e.g. Community volunteer who report cases or events to the designated focal point, Health Surveillance Assistants (HSA) within the nearby local health delivery points. Community based surveillance strategies focus on two approaches to collect community information. The first one relies on identifying and reporting events based on agreed indicators (lay case definitions). For example, trusted community members are trained to identify diseases such as measles, cholera, polio and Neonatal Tetanus, using community (lay) case definitions and use standardized reporting system to the next level. The second strategy relies on reporting of"
+Q5_paragraph(s)_number,86
+Q5_keywords,"Community Based Surveillance (CBS), Public Health Events, Systematic Detection, Reporting, Community Engagement, Designated Focal Person, Indicator-based, Event-based, Community Information Collection"
+Q9_question_answer,"I'm sorry, but the provided context does not contain any information about the kind of training that members of VHC should receive."
+Q9_reference_document,0
+Q9_paragraph(s)_number,0
+Q9_keywords,0
+Q10_question_answer,Indicator-Based surveillance (IBS) involves reports of specific diseases from health care providers to public health officials. The information obtained is standardized.
+Q10_reference_document,TG Booklet 3
+Q10_paragraph(s)_number,137
+Q10_keywords,"Indicator Based Surveillance, Information Standardization, Disease Reporting"
+Q13_question_answer,Case-based surveillance involves the ongoing and rapid identification of identifiable cases for purposes of case follow-up. It is used for diseases that are targeted for elimination or eradication or during confirmed outbreaks.
+Q13_reference_document,TG Booklet 1
+Q13_paragraph(s)_number,81
+Q13_keywords,"Case-based surveillance, Case identification, Case follow-up, Elimination, Eradication, Outbreak"
+Q14_question_answer,"Syndromic surveillance can best monitor and track diseases that have clinical features but may lack specific laboratory diagnosis. For example: Acute Flaccid Paralysis (AFP) for polio, acute watery diarrhea for cholera, rash illness for measles, Acute Hemorrhagic Fever (AHF) for viral hemorrhagic diseases, Severe Acute Respiratory Infection (SARI), or Influenza-Like Illness (ILI) for influenza."
+Q14_reference_document,TG Booklet 1
+Q14_paragraph(s)_number,83
+Q14_keywords,"Syndromic Surveillance, Clinical Features, Laboratory Diagnosis, Acute Flaccid Paralysis, Acute Watery Diarrhea, Cholera, Rash Illness, Measles, Acute Hemorrhagic Fever, Viral Hemorrhagic Diseases, Severe Acute Respiratory Infection, Influenza-Like Illness, Influenza"
+Q15_question_answer,Defined as the systematic detection and reporting of events of public health significance within the community by community members.
+Q15_reference_document,"TG Booklet 1, Paragraph(s) Number: 86"
+Q15_paragraph(s)_number,86
+Q15_keywords,"Community Based Surveillance (CBS) : Indicator. based and Event. based surveillance methods, Focal person reporting to HSA, Two approaches for data collection"
+Q17_question_answer,"I apologize, but the context provided does not contain information on the specific actions taken by Village Health Committees (VHCs) once a patient is identified through any of their strategies."
+Q17_reference_document,0
+Q17_paragraph(s)_number,0
+Q17_keywords,0
+Q18_question_answer,Alerts and events of interest in Community-Based Surveillance include unusual occurrences such as a cluster of deaths with an unknown cause happening in the same household or adjacent households.
+Q18_reference_document,TG Booklet 4
+Q18_paragraph(s)_number,434
+Q18_keywords,"Community-Based Surveillance, Unusual Events, Cluster of Deaths"
+Q20_question_answer,"Members of Village Health Commitees (VHAs) include traditional birth attendants, school teachers, pharmacists, community leaders, traditional leaders, youth leaders, and religious leaders."
+Q20_reference_document,TG Booklet 2
+Q20_paragraph(s)_number,"485, 486"
+Q20_keywords,"VHC, Community, Traditional, Youth, Religious, Leader"
+Q22_question_answer,Trusted community members with strong ties to their local community and knowledge of local health services are often chosen as community health workers.
+Q22_reference_document,TG Booklet 2
+Q22_paragraph(s)_number,485
+Q22_keywords,"Community Health Workers, Trusted Community Members, Local Knowledge"
+Q26_question_answer,0
+Q26_reference_document,0
+Q26_paragraph(s)_number,0
+Q26_keywords,0
+Q27_question_answer,I do not know.
+Q27_reference_document,0
+Q27_paragraph(s)_number,0
+Q27_keywords,0
+Q31_question_answer,"Health Surveillance Assistants (HSAs), interact with their community members regularly to inquire about various diseases, conditions, and events."
+Q31_reference_document,TG Booklet 2
+Q31_paragraph(s)_number,106
+Q31_keywords,"Community Volunteers, HSAs, Surveillance, Regular Interaction"
+Q36_question_answer,"A probable case is defined as a suspected case with an epidemiological link to a confirmed case or an outbreak, in the event that laboratory confirmation results are not available."
+Q36_reference_document,TG Booklet 6
+Q36_paragraph(s)_number,10
+Q36_keywords,"Definition, Probable Case, Suspected Case, Epidemiological Link, Confirmed Case, Laboratory Confirmation"
+Q37_question_answer,A definition is provided for classifying a case as confirmed through laboratory diagnostic testing.
+Q37_reference_document,"Document(page_content='or outbreak of this disease or event. Probable case: A definition is provided for a suspected case with epidemiological link to a confirmed case or an outbreak if laboratory confirmation results are not available. Confirmed case: A definition is provided for classifying a case as confirmed through laboratory diagnostic testing. ﷐Respond to alert threshold Some diseases or events have program specific thresholds for alerting the health facility or district to a potential problem.  For epidemic-prone diseases, diseases targeted for elimination or eradication, or public health events of international concern, a single case is a suspected outbreak and requires immediate reporting followed by patient treatment, collection of specimens for case confirmation, and investigation of the case to determine the risk factors and potential interventions.  For other priority diseases of public health importance, an outbreak or event is suspected when there is any unusual cluster, pattern, or increase')"
+Q37_paragraph(s)_number,0
+Q37_keywords,0
+Q38_question_answer,"During an outbreak, officials may use a more sensitive case definition to identify all suspected cases. Suspected cases will be identified using the Syndromic surveillance approach. Syndromic surveillance is based on clinical features without any laboratory diagnosis."
+Q38_reference_document,TG Booklet 1
+Q38_paragraph(s)_number,158
+Q38_keywords,"Outbreak Scenarios, Syndromic Surveillance, Case Definitions"
+Q40_question_answer,"The One Health approach addresses health threats at the interface of humans, animals, and the environment through collaboration, communication, and coordination across sectors and disciplines, aiming for optimal health outcomes for both people and animals. This approach is applied at local, regional, national, and global levels."
+Q40_reference_document,Document
+Q40_paragraph(s)_number,0
+Q40_keywords,"One Health, Collaboration, Communication, Coordination, Human-Animal-Environment Interface, Optimal Health Outcomes, Local, Regional, National, Global"
+Q41_question_answer,"Though the text provides examples of disease-specific surveillance systems such as Tuberculosis, Malaria and HIV, the context does not include specific examples of One Health surveillance."
+Q41_reference_document,0
+Q41_paragraph(s)_number,0
+Q41_keywords,0
+Q42_question_answer,Case definitions are disseminated through the 3rd Edition Malawi IDSR Technical Guidelines.
+Q42_reference_document,"TG Booklet 1,"
+Q42_paragraph(s)_number,297
+Q42_keywords,"Case Definitions Dissemination, Malawi IDSR Technical Guidelines, 3rd Edition"
+Q46_question_answer,"To update the district profile for surveillance and response, you can use several methods, including creating a forum with key health stakeholders at all levels, whereby there will be discussion on surveillance and response activities related to priority health events at the district level. This could be done through monthly or quarterly meetings."
+Q46_reference_document,TG Booklet 4
+Q46_paragraph(s)_number,195
+Q46_keywords,"District Profile, Surveillance, Response, Monthly Meetings, Quarterly Meetings"
+Q47_question_answer,"At least every year, the information about the catchment area, which include health facilities, Points of Entries, and laboratories, should be updated."
+Q47_reference_document,TG Booklet 4
+Q47_paragraph(s)_number,189
+Q47_keywords,"Catchment Area Information Update, Annual Update, Health Facilities, Points of Entry, Laboratories, Local Population Characteristics"
+Q49_question_answer,"Risk mapping should include all hazards such as chemical, zoonotic, radiological, nuclear, etc. as well as results from the risk mapping."
+Q49_reference_document,TG Booklet 1
+Q49_paragraph(s)_number,190
+Q49_keywords,"Risk Mapping, Public Health Hazards, Chemical, Zoonotic, Radiological, Nuclear"
+Q52_question_answer,Analysis of data is done at facility or district level on a weekly basis to check the quality and completeness of data reported by surveillance sites.
+Q52_reference_document,TG Booklet 4
+Q52_paragraph(s)_number,559
+Q52_keywords,"Data Analysis, Data Completeness, Data Quality, Weekly Review, District, Facility, Reporting Sites"
+Q54_question_answer,"At the district level, the IDSR focal person is responsible for data verification and ensuring that data is approved for further transmission into OHSP/eIDSR."
+Q54_reference_document,TG Booklet 1
+Q54_paragraph(s)_number,559
+Q54_keywords,"Data Verification, District Level, IDSR Focal Person, OHSP/eIDSR"
+Q55_question_answer,"Weekly reporting is used to monitor trends of diseases or conditions, allowing for early detection of outbreaks."
+Q55_reference_document,TG Booklet 1
+Q55_paragraph(s)_number,561
+Q55_keywords,"Weekly Reporting, Disease and Condition Monitoring, Outbreak Early Detection, Standardized Format, Data Comparison"
+Q58_question_answer,"I'm sorry, I cannot answer this question as the given context does not provide information about the origins of the numbers for the weekly aggregates."
+Q58_reference_document,0
+Q58_paragraph(s)_number,0
+Q58_keywords,0
+Q64_question_answer,Routine summary information for other diseases of public health importance that should be reported monthly and quarterly includes the total number of cases and deaths.
+Q64_reference_document,TG Booklet 4
+Q64_paragraph(s)_number,569
+Q64_keywords,"Monthly Summary Reports, Disease Control, Disease Prevention, Outbreak Identification"
+Q66_question_answer,I don't know. The provided context does not contain information about how additional diseases or events can be categorized for reporting frequency.
+Q66_reference_document,0
+Q66_paragraph(s)_number,0
+Q66_keywords,0
+Q70_question_answer,Laboratory data should be organized in a register to generate monthly summaries. The monthly summaries can include core tests done for pathogens on the basis of major PHEIC. This analysis can produce important trends which can necessitate further investigations.
+Q70_reference_document,TG Booklet 4
+Q70_paragraph(s)_number,576
+Q70_keywords,"Laboratory Data Organization, Monthly Summaries, Core Tests, PHEIC"
+Q71_question_answer,0
+Q71_reference_document,0
+Q71_paragraph(s)_number,0
+Q71_keywords,0
+Q72_question_answer,"In health facilities equipped with computers, individual patient records are entered, and the data for IDSR priority diseases or conditions is extracted and analyzed to create the required weekly, monthly, or quarterly compilations."
+Q72_reference_document,TG Booklet 4
+Q72_paragraph(s)_number,579
+Q72_keywords,"IDSR, Priority Diseases, Data Extraction, Weekly, Monthly, Quarterly Compilations"
+Q73_question_answer,"In outbreak scenarios, isolation units that are separate from health facilities can be opened, and they will use a different register to record diseases or events. It is important that this information be captured in the overall IDSR weekly, monthly or quarterly summaries."
+Q73_reference_document,TG Booklet 3
+Q73_paragraph(s)_number,580
+Q73_keywords,"Isolation Units, Outbreak, Separate Register, IDSR Summaries"
+Q74_question_answer,"Supervisory visits are essential in improving surveillance activities within a district, fostering discussions and aiding improvements in disease control."
+Q74_reference_document,TG Booklet 4
+Q74_paragraph(s)_number,313-314
+Q74_keywords,"Supervisory Visits Importance, Disease Control Improvement, Surveillance Activities Enhancement"
+Q75_question_answer,"During supervisory visits, clinicians need to make sure that patient registers and case-based surveillance reporting forms are completed accurately and completely."
+Q75_reference_document,TG Booklet 4
+Q75_paragraph(s)_number,767
+Q75_keywords,"Supervisory Visits, Clinicians, Patient Registers, Case-Based Surveillance Reporting Forms, Completeness, Accuracy"
+Q76_question_answer,Ensure that all health workers know or have access to the recommended standard case definitions.
+Q76_reference_document,TG Booklet 2
+Q76_paragraph(s)_number,595
+Q76_keywords,"Health Workers, Standard Case Definitions"
+Q77_question_answer,Case-based data aids in identifying risk factors and the means of disease transmission or exposure to health risks during public health events. Health personnel must have access to a standardized format for documenting case-based information.
+Q77_reference_document,TG Booklet 4
+Q77_paragraph(s)_number,597
+Q77_keywords,"Case-Based Data Role, Risk Factors, Disease Transmission, Exposure Risks, Health Events, Standardized Case-Based Reporting Form"
+Q78_question_answer,"The surveillance unit should have access to fast communication means such as facsimile, internet connection, telephone, text message, electronic mail, telegrams, personal messages, or other rapid communication means.  Districts should specify how they will notify the national level and who should be contacted at the district, facility, and community levels."
+Q78_reference_document,TG Booklet 1
+Q78_paragraph(s)_number,598
+Q78_keywords,"Communication Means: Surveillance, District Notification, Contact Details"
+Q81_question_answer,"During supervision, the emphasis should be on ensuring data quality and surveillance by: checking that all data on the required variables are collected, registered, validated, and compiled; identifying variables that are not routinely collected and addressing the issues; assessing the impact of missing data on the quality of the surveillance data; and finding solutions to address data quality issues."
+Q81_reference_document,TG Booklet 4
+Q81_paragraph(s)_number,"237, 238, 239, 240, 241"
+Q81_keywords,"Data Quality, Surveillance, Supervision, Variable Collection, Missing Data"
+Q84_question_answer,"Some factors affecting data quality in summaries that should be periodically checked include poorly completed forms, incomplete forms, under-reporting or over-reporting of cases, duplicate reporting, and unsystematic data collection and reporting."
+Q84_reference_document,TG Booklet 4
+Q84_paragraph(s)_number,601-606
+Q84_keywords,"Data quality check, Under-reporting, Duplicate reporting, Incomplete forms, Unsystematic data collection"
+Q85_question_answer,I do not know. The context you provided does not have the answer to the question.
+Q85_reference_document,0
+Q85_paragraph(s)_number,0
+Q85_keywords,0
+Q87_question_answer,"CBS focal persons can be selected from community representatives such as community health volunteers, community health workers, school teachers, veterinarians, health extension workers, and traditional healers."
+Q87_reference_document,TG Booklet 2
+Q87_paragraph(s)_number,467
+Q87_keywords,"CBS focal persons, Community Representatives, Community Health Volunteers, Health Extension Workers"
+Q89_question_answer,"Examples of community sources that district staff may identify for CBS includefacilitators, community health volunteers (CHVs), trained birth attendants (TBAs), village health agents, village leaders, school teachers, veterinarians, health extension workers, chemical sellers, and traditional healers."
+Q89_reference_document,TG Booklet 2
+Q89_paragraph(s)_number,467
+Q89_keywords,"Community Resources, Community Health Volunteers, Trained Birth Attendants, Village Health Agents, Village Leaders, School Teachers, Veterinarians, Health Extension Workers, Chemical Sellers, Traditional Healers, Community Empowerment, Community Ownership"
+Q94_question_answer,"To enhance the link between epidemiological and laboratory data, each reported case and laboratory sample should share a unique ID."
+Q94_reference_document,TG Booklet 2
+Q94_paragraph(s)_number,644
+Q94_keywords,"Unique ID, Case Reported Lab Sample"
+Q95_question_answer,"During an outbreak, weekly summaries of specimens processed, specimen types, and results must be submitted to facilitate the completion of variables in the line list register. This submission aids in identifying trends that might call for further investigation and helps complete the variables in the line list register."
+Q95_reference_document,TG Booklet 3
+Q95_paragraph(s)_number,576
+Q95_keywords,"Outbreak, Weekly Submission, Specimen Summary, Results, Line List Register Completion, Trend Identification, Investigation Trigger"
+Q96_question_answer,"I do not know the answer, the context provided does not mention anything about what should be ensured during supervision at reporting sites."
+Q96_reference_document,0
+Q96_paragraph(s)_number,0
+Q96_keywords,0
+Q100_question_answer,"In implementing the One Health approach, emphasis should be placed on the prevention and control of emerging infectious diseases with reference to internationally adopted standards such as the IHR (2005) and OIE."
+Q100_reference_document,TG Booklet 1
+Q100_paragraph(s)_number,151
+Q100_keywords,"One Health Approach, Infectious Disease Control, IHR (2005), OIE"
+Q102_question_answer,"The key actors include the private sector, civil society, faith-based organizations, defense and security forces, prisons, Internally Displaced Persons (IDP) and refugees' camps, technical and financial partners, and academic and research institutions."
+Q102_reference_document,TG Booklet 2
+Q102_paragraph(s)_number,654
+Q102_keywords,Key Actors
+Q103_question_answer,"When reporting, use unique identifiers such as numbers instead of names to prevent identities from being disclosed."
+Q103_reference_document,TG Booklet 4
+Q103_paragraph(s)_number,657
+Q103_keywords,"Patient Confidentiality, Privacy Maintenance, Data Reporting, Unique Identifiers, Name Protection, Inadvertent Disclosure Prevention"
+Q104_question_answer,I do not know. The provided context does not contain information about when the use of names might be required during an outbreak of infectious diseases.
+Q104_reference_document,None
+Q104_paragraph(s)_number,None
+Q104_keywords,None
+Q105_question_answer,"The provided context does not contain any information about the public health laboratory system as it relates to syndromic disease surveillance, so I cannot answer this question."
+Q105_reference_document,0
+Q105_paragraph(s)_number,0
+Q105_keywords,0
+Q107_question_answer,"To strengthen the linkages between epidemiological and laboratory data, laboratory samples and the case reported should have the same unique ID."
+Q107_reference_document,TG Booklet 2
+Q107_paragraph(s)_number,644
+Q107_keywords,"Unique Identifier, Epidemiological Data, Laboratory Data"
+Q108_question_answer,"Updating the line list, conducting data analysis by time, person and place, and monitoring the effectiveness of the outbreak or response activity are important steps during an outbreak to assist in completing variables in the line list register."
+Q108_reference_document,TG Booklet 6
+Q108_paragraph(s)_number,392
+Q108_keywords,"Line List Update, Data Analysis, Outbreak Effectiveness Monitoring"
+Q109_question_answer,There is no information on collaboration with the Laboratory Focal Person during supervision at reporting sites found in the context.
+Q109_reference_document,0
+Q109_paragraph(s)_number,0
+Q109_keywords,0
+Q118_question_answer,"This form is designed for community-level reporting of priority diseases, events, and alerts as part of the indicator-based and event-based surveillance systems. It helps capture and notify health facilities about these occurrences."
+Q118_reference_document,TG Booklet 4
+Q118_paragraph(s)_number,683
+Q118_keywords,"Community Alert Reporting Form, Priority Disease Reporting, Event/Alert Reporting"
+Q121_question_answer,"I am sorry, but the provided context does not provide information on how case definitions can be made available when filling in the Community Alert Reporting form, so I am unable to answer this question."
+Q121_reference_document,0
+Q121_paragraph(s)_number,0
+Q121_keywords,0
+Q125_question_answer,The form should be used to capture and report priority diseases and events occurring at the community level.
+Q125_reference_document,TG Booklet 4
+Q125_paragraph(s)_number,683
+Q125_keywords,"Capture, Report, Priority Diseases, Events, Community Level"
+Q127_question_answer,Annex 2G collects information from the lab regarding IDSR Case-Based Laboratory Reporting Form.
+Q127_reference_document,TG Booklet 2
+Q127_paragraph(s)_number,531
+Q127_keywords,"Laboratory Form, Patient Identification, Sample, Specimen"
+Q128_question_answer,"When an alert is verified to be a true event, it is reported immediately to the national level."
+Q128_reference_document,TG Booklet 3
+Q128_paragraph(s)_number,386
+Q128_keywords,"Reporting Structure, True Event, Verification, National Level"
+Q131_question_answer,I am unable to answer your question because the provided context does not mention the options for report descriptions in the IDSR Reports and Data Sharing Logbook.
+Q131_reference_document,0
+Q131_paragraph(s)_number,0
+Q131_keywords,0
+Q134_question_answer,"Aspects covered include checking for the existence of an information flow for reporting to the district level, frequency of data review and collection, the availability of a list of the country’s notifiable diseases and priority reportable diseases/conditions/events, and whether the facility has case definitions for suspect and confirmed cases for each priority reportable disease, condition, or event."
+Q134_reference_document,TG Booklet 4
+Q134_paragraph(s)_number,701
+Q134_keywords,"Data Collection, Suspects Identification, Reporting Flow, Reportable Diseases List, Case Definitions, Priority Diseases"
+Q135_question_answer,"I am sorry, but the provided context does not contain information about the key questions in the ""RECORDING OF CASES"" section of the District Level IDSR Data Quality Audit Checklist."
+Q135_reference_document,0
+Q135_paragraph(s)_number,0
+Q135_keywords,0
+Q136_question_answer,The context you provided does not contain the answer to that question.
+Q136_reference_document,0
+Q136_paragraph(s)_number,0
+Q136_keywords,0
+Q137_question_answer,"Information such as country, district, reporting site, date of death, age, gravidity, parity, and time of death is included in the Maternal Death Reporting Form."
+Q137_reference_document,TG Booklet 4
+Q137_paragraph(s)_number,340
+Q137_keywords,Maternal Death Reporting Form Content
+Q140_question_answer,I do not know the focus of Module 3 in the Technical Guidelines for Integrated Disease Surveillance and Response for Malawi.
+Q140_reference_document,0
+Q140_paragraph(s)_number,0
+Q140_keywords,0
+Q144_question_answer,Ensure data collection is completed by the specified deadlines and implement an accountability mechanism for late reporting.
+Q144_reference_document,TG Booklet 4
+Q144_paragraph(s)_number,359
+Q144_keywords,"Timely Data Collection, Accountability, Reporting"
+Q146_question_answer,"I apologize, but I cannot answer this question as the context provided does not discuss the Technical Guidelines for Integrated Disease Surveillance and Response for Malawi."
+Q146_reference_document,0
+Q146_paragraph(s)_number,0
+Q146_keywords,0
+Q149_question_answer,From reporting sites to the next level up to the central level.
+Q149_reference_document,TG Booklet 4
+Q149_paragraph(s)_number,750
+Q149_keywords,"Surveillance data flow, reporting, reporting site, private, quasi-governmental, faith based, standalone laboratories, PoE"
+Q153_question_answer,"I am sorry, but the context does not contain any information about practices to follow when recording and aggregating data manually or electronically."
+Q153_reference_document,0
+Q153_paragraph(s)_number,0
+Q153_keywords,0
+Q156_question_answer,The routine flow of surveillance data involves the reporting of data from reporting sites to the next level up and subsequently to the central level.
+Q156_reference_document,TG Booklet 4
+Q156_paragraph(s)_number,750
+Q156_keywords,"Reporting Site, Central Level, Surveillance Data Flow"
+Q159_question_answer,I don't know how data is collected in areas with an eIDSR system and how it is accessed at the district level according to the context.
+Q159_reference_document,0
+Q159_paragraph(s)_number,0
+Q159_keywords,0
+Q160_question_answer,"In order to ensure data security and protection in healthcare information systems, it's essential to control access to health information by limiting it to authorized personnel who require it for specific tasks. This ensures ethical handling of data and patient privacy is maintained."
+Q160_reference_document,TG Booklet 2
+Q160_paragraph(s)_number,583
+Q160_keywords,"Data Security, Protection of health information, Access Control, Authorized Personnel, Ethical Handling of Data, Patient Privacy"
+Q164_question_answer,"Troubleshooting and cleaning data prior to analysis is an important data management practice. Disease trends and maps will not be accurate if information about number of cases, time of onset, or geographic location of cases are missing."
+Q164_reference_document,"Document(page_content='context: Filename: TG Booklet 4, Paragraph(s) Number: 767, Content: At each level where data is received (health facility, district or national), the IDSR focal person should always liaise with the Assistant Statistician to extract the priority IDSR diseases/events from the register and enter correctly into aggregated IDSR reporting forms while listing data from all the reporting sites. Troubleshooting and cleaning data prior to analysis is an important data management practice. Disease trends and maps will not be accurate if information about number of cases, time of onset, or geographic location of cases are missing. Use opportunities during supervisory visits to sensitize clinicians and laboratory staff about the importance of quality practices for recording patient information in patient log-books/register or reporting forms. Emphasize that patient logs are sources of data for reporting public health information and may play a role in detecting an unusual event or otherwise')] "
+Q164_paragraph(s)_number,767
+Q164_keywords,"Data Review, Data Management, Data Accuracy, Disease Trends, Patient Logs, Quality Practices, Reporting Forms, Supervisory Visits"
+Q166_question_answer,0
+Q166_reference_document,0
+Q166_paragraph(s)_number,0
+Q166_keywords,0
+Q176_question_answer,A histogram of case based forms or line lists should include the name of the geographical location described.
+Q176_reference_document,TG Booklet 1
+Q176_paragraph(s)_number,794
+Q176_keywords,Geographical Location
+Q178_question_answer,We can plot cases on the histogram according to the date of onset so that the histogram demonstrates an epidemic curve.
+Q178_reference_document,TG Booklet 1
+Q178_paragraph(s)_number,794
+Q178_keywords,"Histogram, Epidemic Curve, Case Plotting, Date of Onset"
+Q180_question_answer,"By constructing an epidemic curve of the weekly number of cases on the y-axis and their date or time of illness onset on the x-axis, it is possible to infer the disease incubation period from the time trend of the event."
+Q180_reference_document,TG Booklet 6
+Q180_paragraph(s)_number,191
+Q180_keywords,"Epidemic Curve, Weekly Cases, Incubation Period, Time Trend, Disease Spread"
+Q183_question_answer,0
+Q183_reference_document,0
+Q183_paragraph(s)_number,0
+Q183_keywords,0
+Q185_question_answer,"Mapping cases by geographical location can identify sources of infection at specific locations, such as homes, villages, or healthcare facilities."
+Q185_reference_document,TG Booklet 6
+Q185_paragraph(s)_number,191
+Q185_keywords,"Geographical Location, Case Mapping, Source Identification, Home, Village, Healthcare Facility"
+Q187_question_answer,I do not have enough information to answer the question as the document does not mention factors that should be marked on a map during routine analysis of disease surveillance data.
+Q187_reference_document,0
+Q187_paragraph(s)_number,0
+Q187_keywords,0
+Q191_question_answer,"I apologize, but the provided context does not contain information regarding the importance of recording location correctly during an outbreak analysis. Therefore, I cannot provide an answer to your question."
+Q191_reference_document,0
+Q191_paragraph(s)_number,0
+Q191_keywords,0
+Q195_question_answer,"Sorry, I cannot find the answer to your question in the context."
+Q195_reference_document,0
+Q195_paragraph(s)_number,0
+Q195_keywords,0
+Q196_question_answer,"Identifying numerators and denominators is important in analyzing person data because it allows for the calculation of percentages and rates, which are useful for comparing information reported to the district and understanding the impact of a disease on the community, health facility, or district."
+Q196_reference_document,TG Booklet 3
+Q196_paragraph(s)_number,833
+Q196_keywords,"Numerators, Denominators, Person Data Analysis, Percentages, Rates, Disease Impact"
+Q197_question_answer,Summary totals for each age group can be calculated to analyze the percentage of cases occurring within a given age group.
+Q197_reference_document,TG Booklet 1
+Q197_paragraph(s)_number,851-853
+Q197_keywords,"Simple Percentage, Disease Surveillance Analysis, Age Group, Percentage Calculation"
+Q203_question_answer,I am sorry I cannot find information about assessing health-seeking behavior by analyzing case fatality rate from the given context.
+Q203_reference_document,0
+Q203_paragraph(s)_number,0
+Q203_keywords,0
+Q207_question_answer,IDSR focal person can compare the incidence of measles in school children within different facilities to assess the impact of the illness.
+Q207_reference_document,TG Booklet 3
+Q207_paragraph(s)_number,841
+Q207_keywords,"Incidence Comparison, Impact Assessment, Measles, IDSR Focal Person, Facility-Level Analysis"
+Q209_question_answer,"The attack rate is defined as the frequency with which an event, such as a new case of illness, occurs in a population at risk over a specified period. It is usually calculated in an outbreak scenario and is expressed per population at risk."
+Q209_reference_document,Filename: TG Booklet 4
+Q209_paragraph(s)_number,859
+Q209_keywords,"Attack Rate, Event Frequency, Population at Risk, Specified Period, Outbreak Scenario"
+Q218_question_answer,"In areas with endemic malaria, the median and 3rd quartile of the number of malaria cases at a specific health facility or district by month/week for the past 5 years is used to set an epidemic threshold."
+Q218_reference_document,TG Booklet 4
+Q218_paragraph(s)_number,209
+Q218_keywords,"Malaria, Epidemic Threshold, Endemic, Health Facility, District, Time, Quartile, 5 Years"
+Q221_question_answer,I cannot answer this question as the information you provided does not contain the answer.
+Q221_reference_document,0
+Q221_paragraph(s)_number,0
+Q221_keywords,0
+Q222_question_answer,I don't know.
+Q222_reference_document,0
+Q222_paragraph(s)_number,0
+Q222_keywords,0
+Q224_question_answer,The Malawi IDSR Technical Guidelines contain information on how to determine these thresholds in Section 4.1 of the 3rd Edition.
+Q224_reference_document,TG Booklet 4
+Q224_paragraph(s)_number,881
+Q224_keywords,"Thresholds Determination Process, Section 4.1 of 3rd Edition Guidelines"
+Q225_question_answer,I don't know.
+Q225_reference_document,0
+Q225_paragraph(s)_number,0
+Q225_keywords,0
+Q227_question_answer,"Sorry, I am unable to answer this question, this document doesn't contain this information."
+Q227_reference_document,0
+Q227_paragraph(s)_number,0
+Q227_keywords,0
+Q228_question_answer,I do not know.
+Q228_reference_document,0
+Q228_paragraph(s)_number,0
+Q228_keywords,0
+Q229_question_answer,I do not have any information about the factors that should be considered when interpreting results based on the provided context.
+Q229_reference_document,0
+Q229_paragraph(s)_number,0
+Q229_keywords,0
+Q236_question_answer,Evaluate any potential causes for a perceived rise in illnesses. Is there a change in health centers providing data?
+Q236_reference_document,TG Booklet 4
+Q236_paragraph(s)_number,909
+Q236_keywords,"Apparent Increase Explanations, Reporting Facilities Change"
+Q237_question_answer,"I am sorry, but I cannot answer the question because the context does not contain information about why there might be a backlog of cases being reported."
+Q237_reference_document,0
+Q237_paragraph(s)_number,0
+Q237_keywords,0
+Q238_question_answer,I do not have enough information to answer the question.
+Q238_reference_document,0
+Q238_paragraph(s)_number,0
+Q238_keywords,0
+Q240_question_answer,"To assess the quality of data during interpretation, one can examine the percentage of \""unknown\"" or \""blank\"" responses to items on surveillance forms."
+Q240_reference_document,Document
+Q240_paragraph(s)_number,0
+Q240_keywords,Data quality
+Q241_question_answer,"Factors that may affect data quality include poorly completed, incomplete forms, under-reporting or over-reporting of cases, duplicate reporting, unsystematic data collection and reporting, and untruthful reporting."
+Q241_reference_document,TG Booklet 4
+Q241_paragraph(s)_number,601-607
+Q241_keywords,"Data Quality, Factors, Reporting Issues, Form Completion, Accuracy, Data Collection"
+Q242_question_answer,"I am sorry, but the retrieved contexts do not contain the information required to answer the question about the quality of data being ensured during data collection."
+Q242_reference_document,0
+Q242_paragraph(s)_number,0
+Q242_keywords,0
+Q243_question_answer,There is no information about ensuring correct interpretation of outbreak data in the context specified.
+Q243_reference_document,0
+Q243_paragraph(s)_number,0
+Q243_keywords,0
+Q244_question_answer,"Sources of chance that are relevant to outbreak analysis include routine analysis of surveillance data, reports from healthcare workers or community leaders, and continued reporting of events from the local level."
+Q244_reference_document,TG Booklet 6
+Q244_paragraph(s)_number,18
+Q244_keywords,"Sources of Chance, Outbreak Analysis, Routine Analysis, Surveillance Data, Healthcare Workers, Community Leaders, Local Level Reporting"
+Q245_question_answer,I do not have enough information to answer your question.
+Q245_reference_document,0
+Q245_paragraph(s)_number,0
+Q245_keywords,0
+Q247_question_answer,"Information sharing acts as a strong mechanism for coordination among staffs who send reports and displays transparency, thus motivating staffs and building partnerships."
+Q247_reference_document,TG Booklet 4
+Q247_paragraph(s)_number,925
+Q247_keywords,"Information Sharing, Surveillance, Coordination, Motivation, Transparency, Partnership"
+Q248_question_answer,Please refer to Section 7 and 8 of the 3rd Edition Malawi IDSR TG.
+Q248_reference_document,TG Booklet 2
+Q248_paragraph(s)_number,925
+Q248_keywords,"Analysis Results, Feedback Sharing, Information Sharing, Coordination"
+Q249_question_answer,"A minimum plan for routine analysis of surveillance information should include information that can be presented in tables, graphs, and maps."
+Q249_reference_document,TG Booklet 1
+Q249_paragraph(s)_number,930
+Q249_keywords,"Information, Presentation, Tables, Graphs, Maps"
+Q250_question_answer,Completeness of reporting can be computed for each surveillance report to provide a trend analysis and identify the performance of each reporting site. This information can trigger investigations into reasons for poor performance and help find solutions to correct them.
+Q250_reference_document,TG Booklet 4
+Q250_paragraph(s)_number,231
+Q250_keywords,"Completeness, Reporting, Trend Analysis, Performance Evaluation, Investigation, Solution Identification"
+Q255_question_answer,I do not have enough information from the given context to answer this question.
+Q255_reference_document,0
+Q255_paragraph(s)_number,0
+Q255_keywords,0
+Q256_question_answer,I do not have any information regarding an example of a product from an analysis plan for routine surveillance information.
+Q256_reference_document,0
+Q256_paragraph(s)_number,0
+Q256_keywords,0
+Q258_question_answer,"To make a line graph manually, consider the following factors: 
+- The information to be displayed on the graph.
+- Title describing the graph's content.
+- Range of numbers on the vertical axis, starting from 0 and increasing until higher than the maximum value of the data.
+- Labeling of the vertical and horizontal axes.
+- Consistent width for each bar on the graph.
+- Marking the number of cases on the graph."
+Q258_reference_document,TG Booklet 4
+Q258_paragraph(s)_number,941
+Q258_keywords,"Line Graph Creation, Data Representation, Axis Labeling, Bar Width, Case Marking"
+Q259_question_answer,"I am sorry, but the provided context does not have information regarding the importance of correlating analysis findings with other data sources."
+Q259_reference_document,0
+Q259_paragraph(s)_number,0
+Q259_keywords,0
+Q261_question_answer,"I'm sorry, I cannot answer that question as the document provided does not contain information on how to draw a chart manually."
+Q261_reference_document,0
+Q261_paragraph(s)_number,0
+Q261_keywords,0
+Q263_question_answer,"Section 4 covers a more functional approach to evaluating the International Health Regulations (2005) capacities, aiming to increase transparency and mutual accountability. It introduces four key evaluation components: Joint External Evaluation (JEE), After Action Review (AAR), Intra Action Review, and Simulation Exercises (SIMEX). These components are designed to enhance assessment and reporting, providing a comprehensive evaluation framework."
+Q263_reference_document,TG Booklet 4
+Q263_paragraph(s)_number,147
+Q263_keywords,"IHR, Evaluation Framework, JEE, AAR, SIMEX, Accountability, Transparency"
+Q266_question_answer,Preparations to respond to outbreaks and other public health events include the establishment of the Public Health Emergency Management Committee (PHEMC).
+Q266_reference_document,TG Booklet 5
+Q266_paragraph(s)_number,506
+Q266_keywords,0
+Q270_question_answer,I cannot answer this question as the document does not contain the information about annexes included in Section 4.
+Q270_reference_document,0
+Q270_paragraph(s)_number,0
+Q270_keywords,0
+Q274_question_answer,"The manual's purpose is to provide practical guidelines for general reference in surveillance activities across different levels, and to serve as resource material for the development, supervision, and evaluation of these activities."
+Q274_reference_document,TG Booklet 3
+Q274_paragraph(s)_number,148
+Q274_keywords,"General Reference, Surveillance Activities, Resource Material, Training, Supervision, Evaluation"
+Q276_question_answer,An outbreak is defined as a disease incidence increase or an event beyond what is typically expected in a given region during a given time.
+Q276_reference_document,TG Booklet 4
+Q276_paragraph(s)_number,177
+Q276_keywords,"Outbreak Definition, Disease Incidence Increase, Event Increase, Population, Region, Time Period"
+Q277_question_answer,The purpose of an outbreak investigation is to control the outbreak and thus reduce morbidity and mortality. The investigation should begin as soon as an alert is detected and has been verified.
+Q277_reference_document,TG Booklet 4
+Q277_paragraph(s)_number,259
+Q277_keywords,"Outbreak Investigation Purpose, Control, Mortality Reduction, Early Investigation"
+Q286_question_answer,An outbreak is defined as an increase in the number of cases of a disease or an event above what is normally expected in that population in a given area over a particular period of time.
+Q286_reference_document,TG Booklet 4
+Q286_paragraph(s)_number,177
+Q286_keywords,"Outbreak Definition, Disease Increase, Population, Time Period, Public Health Event"
+Q287_question_answer,To control the outbreak and reduce morbidity and mortality.
+Q287_reference_document,TG Booklet 4
+Q287_paragraph(s)_number,259
+Q287_keywords,"Outbreak Investigation, Cause Determination, Risk Identification, Control Measures"
+Q291_question_answer,"Once suspected outbreaks or events are verified, gather evidence, including non-human sources, to determine the cause and implement prevention strategies. Consider social, gender, and behavioral factors to tailor responses and risk communication."
+Q291_reference_document,TG Booklet 1
+Q291_paragraph(s)_number,187
+Q291_keywords,"Investigation, Laboratory Confirmation, Outbreak Control, Evidence Gathering, Social and Behavioral Factors"
+Q293_question_answer,The provided context does not contain information about the significance of the District Public Health Emergency Rapid Response Team (PHERRT).
+Q293_reference_document,0
+Q293_paragraph(s)_number,0
+Q293_keywords,0
+Q295_question_answer,"I apologize, but the context provided does not contain information about how Section 4.1.1 recommends preparing for an outbreak investigation."
+Q295_reference_document,0
+Q295_paragraph(s)_number,0
+Q295_keywords,0
+Q296_question_answer,"The District Public Health Emergency Rapid Response Team (PHERRT) serves the following functions: 1. Supports National Public Health Emergency Rapid Response Teams (PHERRTs) 2. Develops and organizes simulation exercises (including cross border) 3. Develops and manages contingency plans 4. Establishes and ensures the functionality of national public health emergency operations center (PHEOC) 5. Monitors operational readiness using a readiness checklist (Reference tool) 6. Sets policies and procedures for responding to outbreaks of priority diseases, conditions, and events 7. Develops and supports response activities that promote the psychological wellbeing of patients, HCWs, affected families, and communities 8. Coordinates response with district health teams  9. Supports epidemic response and preparedness activities including deployment of PHERRTs. 10. Follows and adapts risk communication, community engagement, and social mobilization (Health Promotion Unit MOH) 11. Establishes risk communication systems and structure 12. Ensures the engagement of risk communication partners and stakeholders 13. Develops an up-to-date risk communication"
+Q296_reference_document,TG Booklet 6
+Q296_paragraph(s)_number,94-95
+Q296_keywords,"PHERRT, Emergency Response, Preparedness, Public Health"
+Q299_question_answer,There is no information available about the key elements to include in terms of reference for the PHERRT in the provided context.
+Q299_reference_document,0
+Q299_paragraph(s)_number,0
+Q299_keywords,0
+Q300_question_answer,I don't know. The provided context does not mention why a database of trained public health workers is suggested in Section 4.1.1.
+Q300_reference_document,0
+Q300_paragraph(s)_number,0
+Q300_keywords,0
+Q302_question_answer,"I apologize, but the significance of developing terms of reference for the PHERRT could not be found in the provided context."
+Q302_reference_document,0
+Q302_paragraph(s)_number,0
+Q302_keywords,0
+Q304_question_answer,The national level helps with technical support and policy guidance for district level outbreak investigations.
+Q304_reference_document,TG Booklet 6
+Q304_paragraph(s)_number,189
+Q304_keywords,"National Support, Technical Support, Policy Guidance, District Outbreak Investigation"
+Q310_question_answer,"I am sorry, but the context does not have information on how Section 4.1.7 advises on arranging transportation and other logistics for an outbreak investigation."
+Q310_reference_document,0
+Q310_paragraph(s)_number,0
+Q310_keywords,0
+Q311_question_answer,"Gather supplies for collecting laboratory specimens by looking at the disease specific program guidelines and talking to laboratory personnel to find out the requirements for laboratory supplies for proper collection, storage, and transport of relevant specimens. Refer to Annex 4B for details."
+Q311_reference_document,TG Booklet 4
+Q311_paragraph(s)_number,271
+Q311_keywords,"Disease specific program guidelines, Laboratory personnel, Laboratory supplies, Collection, Storage, Transport, Relevant specimens, Annex 4B"
+Q313_question_answer,"When the cases reach a threshold value (e.g., a specific number of cases per 100,000 population) in a particular community, geographical area, or season."
+Q313_reference_document,TG Booklet 3
+Q313_paragraph(s)_number,190
+Q313_keywords,"Disease Threshold, Case Count, Outbreak Detection"
+Q314_question_answer,"The purpose of recording reported outbreaks is to ensure that the report of each suspected outbreak, public health event or alert is followed by some action and resolution. Keeping this record will help to gather information for evaluating the timeliness and completeness of the outbreak investigation and response process."
+Q314_reference_document,TG Booklet 4
+Q314_paragraph(s)_number,214
+Q314_keywords,"Outbreak Reporting, Public Health Events, Alerts, Record Keeping, Evaluation, Outbreak Investigation, Response Process"
+Q318_question_answer,"Create a plan for team communication during an investigation, and prepare a diagram detailing reporting relationships, information flow, and communication channels. Define methods (e.g., daily radiophone updates) and frequency of communication."
+Q318_reference_document,TG Booklet 3
+Q318_paragraph(s)_number,253
+Q318_keywords,"Investigation Communication, Communication Plan, Reporting Relationships, Information Flow, Communication Channels, Methods, Frequency"
+Q320_question_answer,I do not have sufficient context to answer this question. The provided context does not mention any information about authorizations during an investigation.
+Q320_reference_document,0
+Q320_paragraph(s)_number,0
+Q320_keywords,0
+Q322_question_answer,"Verify the case and contacts, outbreak or event through laboratory confirmation. Use non-human sources of information like animals (wildlife and domestic) and the environment to gather evidence about the cause of the event or outbreak. Use appropriate control and prevention strategies."
+Q322_reference_document,TG Booklet 1
+Q322_paragraph(s)_number,187
+Q322_keywords,"Outbreak/Event Verification, Laboratory Confirmation, Non-Human Sources"
+Q323_question_answer,0
+Q323_reference_document,0
+Q323_paragraph(s)_number,0
+Q323_keywords,0
+Q324_question_answer,Questions about contact with the patient and any recent illnesses in the area should be asked during outbreak investigations.
+Q324_reference_document,TG Booklet 6
+Q324_paragraph(s)_number,308
+Q324_keywords,"Contact, Illness, Area, Symptoms, Death, Care, Burial"
+Q325_question_answer,The answer cannot be found in the given context.
+Q325_reference_document,0
+Q325_paragraph(s)_number,0
+Q325_keywords,0
+Q326_question_answer,"A case, an outbreak, or an event can be investigated to confirm its occurrence through an epidemiological investigation of the suspected cases and then confirming it through a laboratory test."
+Q326_reference_document,TG Booklet 1
+Q326_paragraph(s)_number,187
+Q326_keywords,"Epidemiological Investigation, Suspected Case, Outbreak Confirmation, Laboratory Confirmation, Case/Outbreak Confirmation"
+Q332_question_answer,"In the event of suspected adverse events following immunizations, gather details on the lot number, expiry date, and name of the manufacturer of the vaccine."
+Q332_reference_document,TG Booklet 1
+Q332_paragraph(s)_number,241-244
+Q332_keywords,"Suspected Adverse Events Following Immunization, Vaccine Details"
+Q333_question_answer,I don't know. The provided context does not mention the importance of asking about recent food consumption during a foodborne outbreak investigation.
+Q333_reference_document,0
+Q333_paragraph(s)_number,0
+Q333_keywords,0
+Q335_question_answer,0
+Q335_reference_document,0
+Q335_paragraph(s)_number,0
+Q335_keywords,0
+Q338_question_answer,"With an outbreak investigation, defining a case allows for the classification of individuals as confirmed, probable, or suspected cases of the outbreak."
+Q338_reference_document,TG Booklet 6
+Q338_paragraph(s)_number,113-114
+Q338_keywords,"Case Definitions, Classification, Confirmed Cases, Probable Cases, Suspected Cases, Outbreak Investigation"
+Q339_question_answer,Standard case definitions for most IDSR priority diseases can be found in section 11.0 of the 3rd Edition Malawi IDSR Technical Guidelines.
+Q339_reference_document,TG Booklet 5
+Q339_paragraph(s)_number,297
+Q339_keywords,"Case Definitions, Standard, IDSR Priority Diseases, Malawi IDSR Technical Guidelines, Section 11.0"
+Q341_question_answer,"To establish a case definition for a new disease, you should focus on symptoms, date of onset of symptoms, laboratory results, and the essential elements of person."
+Q341_reference_document,TG Booklet 5
+Q341_paragraph(s)_number,297
+Q341_keywords,"Case Definition, Symptoms, Date of Onset, Laboratory Results, Person"
+Q343_question_answer,"Common elements of a case definition include information on symptoms, date of onset of symptoms, laboratory results, and the essential elements of person."
+Q343_reference_document,TG Booklet 6
+Q343_paragraph(s)_number,297
+Q343_keywords,"Symptoms, Person, Date of Onset, Laboratory Results"
+Q347_question_answer,"Once the initial cases have been clinically confirmed and treatment has begun, it is essential to search for additional suspected cases and deaths to prevent further spread of the disease."
+Q347_reference_document,TG Booklet 2
+Q347_paragraph(s)_number,302
+Q347_keywords,"Searching, Additional Cases, Prevention, Disease Spread"
+Q350_question_answer,"I'm sorry, but the context provided does not contain information about the guidelines for managing cases in isolation during an outbreak."
+Q350_reference_document,0
+Q350_paragraph(s)_number,0
+Q350_keywords,0
+Q353_question_answer,"Those places where the patient had, or was likely to have had, contact with other people, are the places where the search for contact persons and suspected deaths should be conducted."
+Q353_reference_document,TG Booklet 6
+Q353_paragraph(s)_number,308
+Q353_keywords,"Contact Persons and Suspected Deaths, Places with Patient Contact, Search"
+Q356_question_answer,"Options for communicating with the community and key partners can include press releases, press conferences, television, and radio messages, meetings, educational materials, multimedia presentations, social media, SMS, telephone, hand-carried messages, and community drama."
+Q356_reference_document,TG Booklet 4
+Q356_paragraph(s)_number,1807
+Q356_keywords,"Communication Methods: Outbreak, Press Release, Press Conference, Media, Meetings, Educational Materials, Multimedia, Social Media, SMS, Telephone, Hand-Carried Message, Community Drama"
+Q359_question_answer,Recording information on a line list register helps keep track of pertinent basic data for cases and potential cases as they are identified.
+Q359_reference_document,TG Booklet 6
+Q359_paragraph(s)_number,311
+Q359_keywords,"Line List Register, Basic Data Tracking"
+Q360_question_answer,I don't know.
+Q360_reference_document,0
+Q360_paragraph(s)_number,0
+Q360_keywords,0
+Q361_question_answer,"I am sorry, but I do not have the information you are looking for about locating detailed forms to investigate specific diseases during an outbreak."
+Q361_reference_document,0
+Q361_paragraph(s)_number,0
+Q361_keywords,0
+Q370_question_answer,"I apologize, but the provided context does not contain information regarding the contrast between the information recorded in the line list register and the sample line list register during an outbreak investigation."
+Q370_reference_document,0
+Q370_paragraph(s)_number,0
+Q370_keywords,0
+Q373_question_answer,Case fatality rates are calculated during an outbreak situation as a way of gauging the effectiveness of the outbreak response by measuring whether the target of reducing the case fatality rate has been achieved or not.
+Q373_reference_document,TG Booklet 4
+Q373_paragraph(s)_number,873
+Q373_keywords,"Case Fatality Rate, Disease Control, Outbreak Response, Effectiveness Measurement, Public Health Programs, Prompt Case Detection, Good Quality Case Management"
+Q374_question_answer,The shape of the epidemic curve can provide insights into the timing and source of an outbreak. An abrupt increase and rapid decrease may indicate a brief exposure period and a common source of infection. A plateau shape rather than a sharp peak suggests a longer exposure period to the source.
+Q374_reference_document,TG Booklet 4
+Q374_paragraph(s)_number,336-338
+Q374_keywords,"Epidemic Curve, Exposure Timing, Source of Infection, Incubation Period, Common Source"
+Q378_question_answer,"Investigators can use cohort studies, case-control studies, or randomized control trials to test hypotheses about the outbreak causes."
+Q378_reference_document,TG Booklet 6
+Q378_paragraph(s)_number,358
+Q378_keywords,"Hypothesis Testing Methods: Cohort Studies, Case-Control Studies, Randomized Control Trials"
+Q381_question_answer,"Epidemic curves can show sudden increases with steep up-slopes followed by rapid descents, indicating a probable exposure to the causal agent over a brief period from a common source, or they can show plateaus instead of sharp peaks, indicating a more prolonged exposure to the common source."
+Q381_reference_document,TG Booklet 4
+Q381_paragraph(s)_number,337-338
+Q381_keywords,"Epidemic Curve Shape, Common Source Exposure, Incubation Period, Brief Exposure, Prolonged Exposure"
+Q383_question_answer,"I'm sorry, but the document does not explicitly mention any information about contrasting the purposes of time, place, and person analyses during an outbreak investigation."
+Q383_reference_document,0
+Q383_paragraph(s)_number,0
+Q383_keywords,0
+Q385_question_answer,Comparing age groups in outbreak investigations is important for identifying vulnerable populations and determining risk factors. This information can be used to develop targeted interventions to protect these groups and prevent further outbreaks.
+Q385_reference_document,TG Booklet 5
+Q385_paragraph(s)_number,356
+Q385_keywords,"Age Groups Comparison, Outbreak Investigations, Vulnerable Populations, Risk Factors, Targeted Interventions"
+Q386_question_answer,"Analytic study designs, such as case-control studies and cohort studies, are suitable for testing hypotheses in outbreak investigations because they allow researchers to compare the occurrence of disease in exposed and unexposed groups and to assess the strength of associations between exposure and disease."
+Q386_reference_document,TG Booklet 6
+Q386_paragraph(s)_number,363
+Q386_keywords,"Analytic Study Design, Hypothesis Testing, Case-Control Studies, Cohort Studies, Exposure, Disease Association"
+Q390_question_answer,Refining hypotheses based on analytic study results is important for determining the most probable causes of an outbreak and identifying risk factors in order to make informed decisions for outbreak control and prevention.
+Q390_reference_document,TG Booklet 5
+Q390_paragraph(s)_number,356
+Q390_keywords,"Hypothesis Refinement: Analytic Study Results, Outbreak Causes, Risk Factor Identification, Outbreak Control Decisions, Prevention Measures"
+Q391_question_answer,"All reports, including preliminary and interim, should always be disseminated, even if no conclusive risk factors have been identified for a given outbreak."
+Q391_reference_document,TG Booklet 4
+Q391_paragraph(s)_number,365
+Q391_keywords,"Dissemination of Reports, Preliminary or Interim Reports, Outbreak Absence of Risk Factors"
+Q402_question_answer,"A situation report (SitRep) focuses on providing a brief overview of an outbreak, including the trend and key information, while a detailed outbreak investigation report aims to thoroughly describe the outbreak, including its causes, contributing factors, and recommendations for prevention and control. A Sitrep has a wider audience, including policymakers, legislators, and decision-makers, while a detailed outbreak investigation report is primarily targeted at outbreak response teams and health professionals."
+Q402_reference_document,TG Booklet 6
+Q402_paragraph(s)_number,1829
+Q402_keywords,"Audience, Focus, Detailed Outbreak Investigation Report"
+Q403_question_answer,"Understanding the spread of a disease entails creating a transmission tree and using a spot map. The transmission tree illustrates the transmission routes in a given geographical area, facilitating interventions to control the infection. On the other hand, a spot map pinpoints the exact locations of cases, helping in identifying local disease clusters and enabling targeted interventions for prevention and control."
+Q403_reference_document,TG Booklet 4
+Q403_paragraph(s)_number,372-373
+Q403_keywords,"Transmission Tree, Spot Map, Disease Spread, Geographical Area, Infection Transmission, Control Measures, Case Locations, Local Disease Clusters, Targeted Interventions"
+Q406_question_answer,"I apologize, but the provided context does not contain information about the communication channels recommended in Section 7 for reporting outbreak findings or the importance of these channels."
+Q406_reference_document,0
+Q406_paragraph(s)_number,0
+Q406_keywords,0
+Q408_question_answer,I do not know.
+Q408_reference_document,0
+Q408_paragraph(s)_number,0
+Q408_keywords,0
+Q412_question_answer,"I am sorry, but the context provided does not contain any information about why control measures should be implemented concurrently with other investigation steps in an outbreak, so I am unable to answer this question."
+Q412_reference_document,NA
+Q412_paragraph(s)_number,NA
+Q412_keywords,NA
+Q416_question_answer,"Implementing control measures at the first accessible point in the investigation process allows for prompt and effective containment of the outbreak, thus potentially shortening its duration and curbing transmission."
+Q416_reference_document,TG Booklet 4
+Q416_paragraph(s)_number,378
+Q416_keywords,"Control Measures, Early Implementation, Outbreak Containment, Prompt Response, Transmission Reduction"
+Q418_question_answer,I cannot find the answer to your question in the context you provided.
+Q418_reference_document,0
+Q418_paragraph(s)_number,0
+Q418_keywords,0
+Q423_question_answer,I cannot answer this question as the context does not contain information about the questions the designated investigation team must address during the risk assessment to determine if the event is a potential Public Health Emergency of International Concern (PHEIC).
+Q423_reference_document,0
+Q423_paragraph(s)_number,0
+Q423_keywords,0
+Q425_question_answer,"Information on daily updates during an epidemic is not provided in the context, therefore I cannot answer this question."
+Q425_reference_document,0
+Q425_paragraph(s)_number,0
+Q425_keywords,0
+Q428_question_answer,"The risk assessment should include evaluation of the susceptibility of the population, potential for spread among the affected and neighboring areas, risk of further transmission, morbidity, and mortality considering factors like population characteristics, density, movement, under five mortality rates, health service access, seasonal outbreak potential, and social events increasing spread opportunities."
+Q428_reference_document,TG Booklet 4
+Q428_paragraph(s)_number,396-398
+Q428_keywords,"Risk Assessment, Outbreak Management, Population Susceptibility, Spread Potential, Transmission Risk, Morbidity, Mortality, Population Characteristics, Under Five Mortality, Seasonal Outbreak, Social Events, Health Services"
+Q432_question_answer,"Districts have the responsibility to investigate an outbreak, while the national level provides policy guidance and support."
+Q432_reference_document,TG Booklet 6
+Q432_paragraph(s)_number,189
+Q432_keywords,"District Responsibilities, National Level Support, Outbreak Investigation, Policy Guidance"
+Q434_question_answer,Parallel reporting can cause confusion and hinder effective management of an outbreak.
+Q434_reference_document,TG Booklet 6
+Q434_paragraph(s)_number,390
+Q434_keywords,"Parallel Reporting, Confusion, Outbreak Management"
+Q437_question_answer,"Control measures should be implemented at the first available point in the investigation and should occur concurrently with other investigation steps. It is emphasized to engage multiple sectors throughout the response, including the community level and other non-health stakeholders who might be key for the particular outbreaks."
+Q437_reference_document,TG Booklet 4
+Q437_paragraph(s)_number,378
+Q437_keywords,"Control Measures, Early Implementation, Concurrent Investigation, Multi-Sectoral Engagement"
+Q438_question_answer,"Biomedical research during an outbreak can help develop countermeasures such as vaccines and therapeutics, which are crucial for containing the outbreak and protecting public health. Conducting research in a scientifically and ethically sound manner is essential to ensure that the countermeasures are safe and effective, and that the research is conducted responsibly and respectfully."
+Q438_reference_document,TG Booklet 6
+Q438_paragraph(s)_number,380
+Q438_keywords,"Biomedical Research, Outbreak, Countermeasures, Scientific and Ethical Conduct"
+Q440_question_answer,I do not know.
+Q440_reference_document,0
+Q440_paragraph(s)_number,0
+Q440_keywords,0
+Q441_question_answer,"The log should record reported outbreaks, public health events and alerts."
+Q441_reference_document,TG Booklet 6
+Q441_paragraph(s)_number,213
+Q441_keywords,"Recording, Outbreaks, Events, Alerts"
+Q443_question_answer,"The record of reported outbreaks, public health events, and alerts is essential for evaluating the timeliness and completeness of the outbreak investigation and response process."
+Q443_reference_document,TG Booklet 6
+Q443_paragraph(s)_number,214
+Q443_keywords,"Reported Outbreaks, Public Health Events, Alerts, Outbreak Investigation, Response Process Evaluation"
+Q445_question_answer,The laboratory supplies checklist does not list specific types of specimens or their importance in outbreak investigations.
+Q445_reference_document,0
+Q445_paragraph(s)_number,0
+Q445_keywords,0
+Q447_question_answer,I do not have the information requested. The provided context does not describe how the laboratory supplies checklist contributes to the safety of healthcare workers involved in an outbreak investigation.
+Q447_reference_document,0
+Q447_paragraph(s)_number,0
+Q447_keywords,0
+Q448_question_answer,"I am sorry, but the provided text does not contain information on considerations for packaging and transporting samples in the laboratory supplies checklist (Annex 4B)."
+Q448_reference_document,0
+Q448_paragraph(s)_number,0
+Q448_keywords,0
+Q450_question_answer,"I apologize, but I cannot answer this question because the provided context does not contain information about how the laboratory supplies checklist supports the effective collection and handling of various types of specimens during an outbreak."
+Q450_reference_document,0
+Q450_paragraph(s)_number,0
+Q450_keywords,0
+Q452_question_answer,"Unfortunately, the provided context does not contain information on the factors to be considered when packaging and transporting samples according to the laboratory supplies checklist. Therefore, I am unable to answer the question."
+Q452_reference_document,0
+Q452_paragraph(s)_number,0
+Q452_keywords,0
+Q453_question_answer,The District log of suspected outbreaks and alerts is designed to include information about response activities and steps taken during an outbreak to help gather information for evaluating the timeliness and completeness of the outbreak investigation and response process.
+Q453_reference_document,TG Booklet 6
+Q453_paragraph(s)_number,214
+Q453_keywords,"Record Outbreak Response Activities, Outbreak Information Gathering, Outbreak Investigation Evaluation"
+Q454_question_answer,"I'm sorry, but the provided information does not contain any specific details about laboratory supplies checklists or their contribution to healthcare worker safety during an outbreak investigation."
+Q454_reference_document,0
+Q454_paragraph(s)_number,0
+Q454_keywords,0
+Q455_question_answer,In the District Log book of alerts and rumors.
+Q455_reference_document,TG Booklet 6
+Q455_paragraph(s)_number,215
+Q455_keywords,"Tracking Reports, Outbreak Log, Rumor Recording"
+Q462_question_answer,"Information ideally included in health facility registers to investigate during a register review includes cases and deaths suspected of a priority disease that meet the standard case definition, as well as whether the suspected case underwent investigation and reporting according to national guidelines."
+Q462_reference_document,TG Booklet 4
+Q462_paragraph(s)_number,['438']
+Q462_keywords,"['Standard Case Definition, Case Investigation, Reporting Guidelines, Suspected Cases, Health Facility Registers, Priority Diseases']"
+Q465_question_answer,I cannot answer this question because the document does not provide information about the roles of the health facility supervisor in the register review and the health facility staff in the District log of suspected outbreaks and alerts.
+Q465_reference_document,0
+Q465_paragraph(s)_number,0
+Q465_keywords,0
+Q466_question_answer,The review is not meant to judge the workers but rather to gather the necessary information to decide on the most appropriate action to take for preventing future cases and limiting the outbreak.
+Q466_reference_document,TG Booklet 2
+Q466_paragraph(s)_number,426
+Q466_keywords,"Performance Review, Information-gathering Exercise, Outbreak Control"
+Q472_question_answer,"The districts have the overall responsibility for investigating outbreaks and public health events, while the national level provides technical support and policy guidance."
+Q472_reference_document,TG Booklet 6
+Q472_paragraph(s)_number,189
+Q472_keywords,"National and District Level Responsibilities, Outbreak Investigations, Support and Guidance"
+Q473_question_answer,"Triple packaging ensures specimens arrive at the laboratory in good condition, resulting in reliable test results."
+Q473_reference_document,TG Booklet 3
+Q473_paragraph(s)_number,210
+Q473_keywords,"Triple Packaging, Specimen Collection, Storage Media, Healthcare Facility, Outbreak Investigation, Laboratory Forms, Good Condition, Reliable Results, Sample Tracking, Chain of Custody"
+Q475_question_answer,"The keywords for document TG Booklet 3 related to contact tracing are: Collecting Contacts, Case-Based Surveillance, Specific Information Collection, Initial Investigations, Reporting Contacts, and Conducting Contact Tracing."
+Q475_reference_document,TG Booklet 3
+Q475_paragraph(s)_number,498
+Q475_keywords,"Collecting Contacts, Case-Based Surveillance, Specific Information Collection, Initial Investigations, Reporting Contacts, Conducting Contact Tracing"
+Q476_question_answer,"The collected information on a line list register, including geo-mapping coordinates if possible."
+Q476_reference_document,TG Booklet 6
+Q476_paragraph(s)_number,311
+Q476_keywords,"Line List, Basic Data, Infectious Diseases, Contacts"
+Q478_question_answer,"The line list is used to record collected information for new cases that fit the surveillance case definition, and to keep track of basic data for identified cases and potential cases."
+Q478_reference_document,TG Booklet 6
+Q478_paragraph(s)_number,311
+Q478_keywords,"Line List Register, Surveillance Case Definition, Basic Data"
+Q481_question_answer,I cannot find the answer to your question about the types of contacts defined in the contact tracing form from the provided context.
+Q481_reference_document,0
+Q481_paragraph(s)_number,0
+Q481_keywords,0
+Q482_question_answer,I don't know.
+Q482_reference_document,0
+Q482_paragraph(s)_number,0
+Q482_keywords,0
+Q487_question_answer,The context does not mention the criteria for defining contacts in the contact tracing form.
+Q487_reference_document,0
+Q487_paragraph(s)_number,0
+Q487_keywords,0
+Q488_question_answer,The sample line list keeps track of pertinent basic data for cases and potential cases as they are identified.
+Q488_reference_document,TG Booklet 6
+Q488_paragraph(s)_number,311
+Q488_keywords,"Line List Register, Basic Data, Case Identification"
+Q489_question_answer,To collect information on cases admitted to the health facility during a specific period.
+Q489_reference_document,TG Booklet 4
+Q489_paragraph(s)_number,421
+Q489_keywords,"Register Review, Purpose, Information Collection, Outbreak Determination, Health Facility, Admissions, Specific Period"
+Q493_question_answer,Information about contacts will be collected in Section 4.
+Q493_reference_document,TG Booklet 3
+Q493_paragraph(s)_number,498
+Q493_keywords,"Reporting Contacts, Contact Tracing, Reporting Units"
+Q499_question_answer,"The purpose of a register review is to collect information on cases admitted to the health facility during a specific period, to determine the cause of an outbreak or increase in cases. Register review is used in inpatient facilities with more than 10 beds, large reference or teaching hospitals with pediatric wards, and small hospitals or health facilities that serve remote areas and high-risk populations."
+Q499_reference_document,TG Booklet 1
+Q499_paragraph(s)_number,421-424
+Q499_keywords,"Purpose of Register Review, Inpatient Facility, Pediatric Ward, Remote Area, High-Risk Population"
+Q502_question_answer,I do not have enough information to answer this question.
+Q502_reference_document,0
+Q502_paragraph(s)_number,0
+Q502_keywords,0
+Q503_question_answer,"I am sorry, but I cannot find the answer to this question in the provided context."
+Q503_reference_document,0
+Q503_paragraph(s)_number,0
+Q503_keywords,0
+Q504_question_answer,I cannot find any information about the role of an analytical study in outbreak investigations in the context.
+Q504_reference_document,0
+Q504_paragraph(s)_number,0
+Q504_keywords,0
+Q505_question_answer,"Examples include any outbreaks or clusters of people who get sick with similar symptoms in one place, community, school, or health facility at the same time."
+Q505_reference_document,TG Booklet 6
+Q505_paragraph(s)_number,294
+Q505_keywords,"Unknown Health Problems, Outbreaks, Clusters"
+Q506_question_answer,I don't know.
+Q506_reference_document,0
+Q506_paragraph(s)_number,0
+Q506_keywords,0
+Q510_question_answer,"I'm sorry, but I cannot find the answer to your question based on the context provided."
+Q510_reference_document,0
+Q510_paragraph(s)_number,0
+Q510_keywords,0
+Q512_question_answer,"The case of the 65-year-old male doctor (case 4) during the outbreak shows that respiratory illnesses can range from mild to severe. The doctor experienced mild symptoms of fever and fatigue, which developed into pneumonia. However, he opted to stay home during his illness and soon recovered, highlighting the possibility of recovery from severe respiratory illnesses with proper care and management."
+Q512_reference_document,TG Booklet 4
+Q512_paragraph(s)_number,479-480
+Q512_keywords,"Case 4, Symptoms, Pneumonia, Recovery, Respiratory Illness"
+Q513_question_answer,I cannot find information about the factors that contributed to the spread of respiratory illness during cases 5 through 13 in the second phase of the outbreak.
+Q513_reference_document,0
+Q513_paragraph(s)_number,0
+Q513_keywords,0
+Q515_question_answer,"Yes, the TG contains case definitions for Acute haemorrhagic fever syndrome."
+Q515_reference_document,TG Booklet 1
+Q515_paragraph(s)_number,119
+Q515_keywords,"Case Definitions, Acute Haemorrhagic Fever Syndrome"
+Q517_question_answer,"Yes, the TG contains case definitions for Adverse Events Following Immunization (AEFI)."
+Q517_reference_document,TG Booklet 1
+Q517_paragraph(s)_number,330
+Q517_keywords,"AEFI, Vaccination, Immunization, Adverse Events, Medical Occurrence, Public Health, Surveillance, Case Definition"
+Q518_question_answer,"Yes, the TG contains case definitions for Anthˇ (human)."
+Q518_reference_document,TG Booklet 1
+Q518_paragraph(s)_number,136
+Q518_keywords,0
+Q520_question_answer,"I am sorry, but this document does not contain information regarding whether the TG contains case definitions for Buruli ulcer."
+Q520_reference_document,0
+Q520_paragraph(s)_number,0
+Q520_keywords,0
+Q521_question_answer,I cannot find the answer to your question.
+Q521_reference_document,0
+Q521_paragraph(s)_number,0
+Q521_keywords,0
+Q522_question_answer,"Yes, the TG contains case definitions for Cholera."
+Q522_reference_document,TG Booklet 1
+Q522_paragraph(s)_number,159
+Q522_keywords,"Standard case definition, Cholera, Suspected cholera case, Cholera outbreak, Confirmed cholera case, Vibrio cholerae O1 or O139, Toxigenic"
+Q523_question_answer,"I am sorry, I cannot find the answer to your question in the provided context."
+Q523_reference_document,0
+Q523_paragraph(s)_number,0
+Q523_keywords,0
+Q525_question_answer,0
+Q525_reference_document,0
+Q525_paragraph(s)_number,0
+Q525_keywords,0
+Q526_question_answer,"Yes, the document contains case definitions for Diarrhea with dehydration in children less than 5 years of age."
+Q526_reference_document,TG Booklet 2
+Q526_paragraph(s)_number,172
+Q526_keywords,", Diarrhoea with dehydration, Bacterial Meningitis, Chikungunya, Buruli Ulcer, Children less than 5 years of age, causes, Transmission, Diseases, Mortality, pathogens, seasonality, IMCI strategy, Surveillance goal"
+Q528_question_answer,I do not know.
+Q528_reference_document,0
+Q528_paragraph(s)_number,0
+Q528_keywords,0
+Q529_question_answer,"Yes, the TG contains case definitions for Epilepsy."
+Q529_reference_document,TG Booklet 1
+Q529_paragraph(s)_number,183
+Q529_keywords,Epilepsy Case Definitions
+Q531_question_answer,I do not have information regarding case definitions for Hypertension in the context.
+Q531_reference_document,0
+Q531_paragraph(s)_number,0
+Q531_keywords,0
+Q534_question_answer,"Yes, on page 197, paragraph 197, the TG defines Injuries (Road traffic accidents) as unintentional injuries caused by road traffic accidents."
+Q534_reference_document,TG Booklet 1
+Q534_paragraph(s)_number,197
+Q534_keywords,"Injuries, Road traffic accidents, Unintentional injuries"
+Q535_question_answer,I am unable to answer this question based on the provided context.
+Q535_reference_document,0
+Q535_paragraph(s)_number,0
+Q535_keywords,0
+Q538_question_answer,I cannot answer this question. The provided context does not refer to the TG containing case definitions for Malaria.
+Q538_reference_document,0
+Q538_paragraph(s)_number,0
+Q538_keywords,0
+Q543_question_answer,"I apologize, but the provided context does not include information about whether the TG contains case definitions for MonkeyPox."
+Q543_reference_document,0
+Q543_paragraph(s)_number,0
+Q543_keywords,0
+Q549_question_answer,"Yes, TG contains case definition for Bubonic plague"
+Q549_reference_document,TG Booklet 2
+Q549_paragraph(s)_number,248
+Q549_keywords,"Bubonic, Pneumonic, Septicemic"
+Q550_question_answer,"Yes, the TG contains case definitions for Pneumonic Plague."
+Q550_reference_document,TG Booklet 1
+Q550_paragraph(s)_number,256
+Q550_keywords,"Pneumonic Plague, Case Definition"
+Q551_question_answer,The text confirms that the TG contains case definitions for Poliomyelitis (Acute flaccid paralysis).
+Q551_reference_document,TG Booklet 1
+Q551_paragraph(s)_number,260
+Q551_keywords,"Case Definitions, Poliomyelitis, Acute Flaccid Paralysis"
+Q552_question_answer,"I am sorry, but the context does not mention whether the TG contains case definitions for Rabies (Human) or not."
+Q552_reference_document,0
+Q552_paragraph(s)_number,0
+Q552_keywords,0
+Q554_question_answer,"Yes, the document contains at least one case definition for Severe Acute Respiratory Infections (SARIs)."
+Q554_reference_document,TG Booklet 1
+Q554_paragraph(s)_number,268
+Q554_keywords,Severe Acute Respiratory Infections (SARIs)
+Q555_question_answer,"I am sorry, but I cannot answer your question regarding whether the TG contains case definitions for Severe Acute Respiratory Syndrome (SARS) because the context does not mention SARS."
+Q555_reference_document,0
+Q555_paragraph(s)_number,0
+Q555_keywords,0
+Q556_question_answer,"Yes, the TG contains case definition for Severe Pneumonia in Children under 5 years of age."
+Q556_reference_document,TG Booklet 1
+Q556_paragraph(s)_number,272
+Q556_keywords,Severe Pneumonia in Children under 5 years of age
+Q557_question_answer,I cannot answer this question. The provided document doesn't contain information related to case definitions for Sexually transmitted infections.
+Q557_reference_document,0
+Q557_paragraph(s)_number,0
+Q557_keywords,0
+Q559_question_answer,"Yes, there is an Acute Flaccid Paralysis case investigation form in the TG."
+Q559_reference_document,TG Booklet 1
+Q559_paragraph(s)_number,331
+Q559_keywords,"Acute Flaccid Paralysis, case investigation form"
+Q561_question_answer,"Yes, the Maternal and Perinatal death reporting forms are available in the TG."
+Q561_reference_document,TG Booklet 1
+Q561_paragraph(s)_number,705
+Q561_keywords,Maternal and Perinatal death reporting forms
+Q562_question_answer,"Yes, the Measles case investigation form is available in the TG."
+Q562_reference_document,TG Booklet 1
+Q562_paragraph(s)_number,346
+Q562_keywords,"Measles Case Investigation Form, Annex 11E"
+Q565_question_answer,"Yes, there is a Respiratory diseases (including Influenza) case investigation form available in the TG."
+Q565_reference_document,TG Booklet 1
+Q565_paragraph(s)_number,396
+Q565_keywords,"Respiratory diseases, Influenza, Case Investigation Form"
+Q570_question_answer,"Yes, there is an IDSR Outbreak line list."
+Q570_reference_document,TG Booklet 1
+Q570_paragraph(s)_number,473
+Q570_keywords,IDSR Outbreak line list
+Q571_question_answer,I do not have information about Contact listing forms being available in the TG.
+Q571_reference_document,0
+Q571_paragraph(s)_number,0
+Q571_keywords,0
+Q581_question_answer,I did not find the answer in the given context.
+Q581_reference_document,0
+Q581_paragraph(s)_number,0
+Q581_keywords,0
+Q583_question_answer,Community Based Surveillance.
+Q583_reference_document,TG Booklet 1
+Q583_paragraph(s)_number,477
+Q583_keywords,"CBS, Constructive Feedback, Supportive Supervision, Data Handling, Dissemination"
+Q584_question_answer,I don't know.
+Q584_reference_document,0
+Q584_paragraph(s)_number,0
+Q584_keywords,0
+Q586_question_answer,Case fatality ratio (CFR) – the proportion of cases that die from a specific disease
+Q586_reference_document,TG Booklet 1
+Q586_paragraph(s)_number,204
+Q586_keywords,"Case Fatality Ratio (CFR), Proportion of Cases, Death from Disease"
+Q587_question_answer,"I am sorry, but the answer to your question about what CHA stands for and if it is explained in the TG cannot be found in the provided context."
+Q587_reference_document,0
+Q587_paragraph(s)_number,0
+Q587_keywords,0
+Q590_question_answer,"I do not know the answer, the context does not contain information about abbreviation CHT in the TG."
+Q590_reference_document,0
+Q590_paragraph(s)_number,0
+Q590_keywords,0
+Q593_question_answer,I do not have the answer. The context does not mention what DDO stands for or if it is explained in the TG.
+Q593_reference_document,0
+Q593_paragraph(s)_number,0
+Q593_keywords,0
+Q595_question_answer,"I'm sorry, I cannot find the meaning of DHO in the provided context."
+Q595_reference_document,0
+Q595_paragraph(s)_number,0
+Q595_keywords,0
+Q597_question_answer,I don't know
+Q597_reference_document,0
+Q597_paragraph(s)_number,0
+Q597_keywords,0
+Q604_question_answer,I do not have the answer to this question.
+Q604_reference_document,0
+Q604_paragraph(s)_number,0
+Q604_keywords,0
+Q606_question_answer,I do not know. The provided context does not contain information about the abbreviation HCF.
+Q606_reference_document,0
+Q606_paragraph(s)_number,0
+Q606_keywords,0
+Q609_question_answer,I don't know.
+Q609_reference_document,0
+Q609_paragraph(s)_number,0
+Q609_keywords,0
+Q613_question_answer,"I cannot find the answer, the context does not mention if IBS is an abbreviation included in the TG and it does not say what it stands for."
+Q613_reference_document,0
+Q613_paragraph(s)_number,0
+Q613_keywords,0
+Q615_question_answer,International Electrotechnical Commission
+Q615_reference_document,TG Booklet 1
+Q615_paragraph(s)_number,1827
+Q615_keywords,"IEC, Materials Distribution, Target Audience Comprehension"
+Q616_question_answer,I do not have enough information to answer this question.
+Q616_reference_document,0
+Q616_paragraph(s)_number,0
+Q616_keywords,0
+Q618_question_answer,I do not know the answer to this question.
+Q618_reference_document,0
+Q618_paragraph(s)_number,0
+Q618_keywords,0
+Q619_question_answer,IHR (2005) is mentioned in the TG as an abbreviation for International Health Regulations
+Q619_reference_document,TG Booklet 1
+Q619_paragraph(s)_number,134
+Q619_keywords,"IHR, International Health Regulations"
+Q621_question_answer,"Joint External Evaluation, Filename: TG Booklet 1, Paragraph: 311, Keywords: JEE, Assessment, Surveillance, Response, Capacity"
+Q621_reference_document,0
+Q621_paragraph(s)_number,0
+Q621_keywords,0
+Q625_question_answer,I cannot find the answer to your question. The provided context does not contain the meaning of MDR.
+Q625_reference_document,0
+Q625_paragraph(s)_number,0
+Q625_keywords,0
+Q628_question_answer,I do not have the information needed to answer that question.
+Q628_reference_document,0
+Q628_paragraph(s)_number,0
+Q628_keywords,0
+Q629_question_answer,"I apologize, but the provided context does not contain any information about the abbreviation MTI or what it stands for. Therefore, I am unable to answer your question."
+Q629_reference_document,0
+Q629_paragraph(s)_number,0
+Q629_keywords,0
+Q630_question_answer,"NGO stands for non-governmental organizations, and it is defined in the TG."
+Q630_reference_document,TG Booklet 1
+Q630_paragraph(s)_number,195
+Q630_keywords,"Health Facility, Outpatient, Inpatient, Faith-based"
+Q631_question_answer,"I do not know, the context does not mention NNT."
+Q631_reference_document,0
+Q631_paragraph(s)_number,0
+Q631_keywords,0
+Q636_question_answer,Points of Entry
+Q636_reference_document,TG Booklet 1
+Q636_paragraph(s)_number,643
+Q636_keywords,PoE: Points of Entry
+Q637_question_answer,Public Health Emergency of International Concern
+Q637_reference_document,TG Booklet 1
+Q637_paragraph(s)_number,538
+Q637_keywords,"PHEIC, IHR 2005"
+Q638_question_answer,PHEMC stands for Public Health Emergency Management Committee.
+Q638_reference_document,TG Booklet 1
+Q638_paragraph(s)_number,526
+Q638_keywords,"PHEMC, Policy Group, National Level, Policy Direction, Oversight, Policy, Strategic Guidance, Functional PHEOCs, Coordination Structures, Mechanisms, District Level"
+Q644_question_answer,I cannot find the information required to answer your question in the context.
+Q644_reference_document,0
+Q644_paragraph(s)_number,0
+Q644_keywords,0
+Q646_question_answer,"Sexually Transmitted Infections, Paragraph 276"
+Q646_reference_document,TG Booklet 1
+Q646_paragraph(s)_number,276
+Q646_keywords,Sexually Transmitted Infections
+Q650_question_answer,I don't know.
+Q650_reference_document,0
+Q650_paragraph(s)_number,0
+Q650_keywords,0
+Q651_question_answer,I do not have sufficient information to answer this question.
+Q651_reference_document,0
+Q651_paragraph(s)_number,0
+Q651_keywords,0
+Q652_question_answer,"Early detection of acute haemorrhagic fever syndrome cases and outbreaks, rapid investigation, and early laboratory verification of the cause of all suspected cases. Investigation of all suspected cases with contact tracing."
+Q652_reference_document,TG Booklet 6
+Q652_paragraph(s)_number,119
+Q652_keywords,"Early Detection, Outbreak Tracking, Laboratory Verification, Suspected Cases, Contact Tracing"
+Q657_question_answer,"In acute haemorrhagic fever syndrome, specimens such as acute-phase blood (within 10 days after onset) and convalescent-phase blood (7-21 days after onset) are used for diagnostic tests."
+Q657_reference_document,0
+Q657_paragraph(s)_number,0
+Q657_keywords,0
+Q660_question_answer,I do not know the precautions that should be taken when using Rapid Diagnostic Tests for Viral hemorrhagic diseases.
+Q660_reference_document,0
+Q660_paragraph(s)_number,0
+Q660_keywords,0
+Q661_question_answer,"Conduct epidemiological investigation of suspected cases and laboratory confirmation. Enhance case confirmation capacity through improved referral systems, networking, and partnerships. Gather information about the cause of the outbreak, including non-human sources, and use it to select appropriate control and prevention strategies. Consider social, gender, and behavioural factors when developing locally appropriate responses and risk communication."
+Q661_reference_document,TG Booklet 1
+Q661_paragraph(s)_number,187
+Q661_keywords,"Epidemiological Investigation, Laboratory Confirmation, Case Confirmation Capacity, Non-Human Sources, Control and Prevention Strategies, Social, Gender and Behavioural Factors"
+Q667_question_answer,I do not know the answer to the question. The provided context does not contain information about where suspected cases should be isolated during an outbreak.
+Q667_reference_document,0
+Q667_paragraph(s)_number,0
+Q667_keywords,0
+Q669_question_answer,"Laboratory confirmed cases must be positive for the virus antigen, by either detection of virus RNA by reverse transcriptase-polymerase chain reaction (RT-PCR), or detection of IgM antibodies directed against Ebola/Marburg, CCHF, Lassa, or West Nile Fever"
+Q669_reference_document,TG Booklet 6
+Q669_paragraph(s)_number,123
+Q669_keywords,"RT-PCR, IgM antibodies, Ebola/Marburg, CCHF, Lassa, West Nile Fever"
+Q673_question_answer,"I am sorry, but the context does not provide any information about the importance of analyzing age and sex distribution during an outbreak of acute hemorrhagic fever, so I cannot answer this question."
+Q673_reference_document,0
+Q673_paragraph(s)_number,0
+Q673_keywords,0
+Q674_question_answer,The document titled “Infection Control for Viral Haemorrhagic Fevers in the African Health Care Setting” provides guidelines for infection control and surveillance of viral haemorrhagic fevers.
+Q674_reference_document,Document
+Q674_paragraph(s)_number,0
+Q674_keywords,"Infection Control, Viral Haemorrhagic Fevers, African Health Care"
+Q678_question_answer,"Estimates of carrier numbers are significant because they help to determine the burden of disease for hepatitis B and C, which are both chronic infections that can lead to severe liver disease and death."
+Q678_reference_document,0
+Q678_paragraph(s)_number,0
+Q678_keywords,0
+Q681_question_answer,Detect hepatitis outbreaks. Identify areas/populations at high risk to target prevention and control measures. Estimate burden of disease.
+Q681_reference_document,"TG Booklet 6, Paragraph(s) Number: 127, Content: Surveillance Goal﷐Acute viral hepatitis Detect hepatitis outbreaks. Identify areas/populations at high risk to target prevention and control measures. Estimate burden of disease. If countrywide surveillance is not possible, surveillance in sentinel areas or hospitals may provide useful information on potential sources of infection. Chronic viral hepatitis Estimate burden of chronic viral hepatitis B and C Measure the impact of control measures/treatment on mortality reduction. To this effect, data is captured on persons diagnosed with hepatocellular carcinoma or cirrhosis﷐Viral Hepatitis Case Definitions:﷐Acute Viral Hepatitis: Suspected case: Any person with discrete onset of an acute illness with signs/symptoms of;  (i) Acute infectious illness (e.g. fever, malaise, fatigue) and (ii) Liver damage (e.g. anorexia, nausea, jaundice, dark coloured urine, right upper quadrant tenderness of body),"
+Q681_paragraph(s)_number,127
+Q681_keywords,"Surveillance Goal, Detect Hepatitis Outbreaks, Identify High-risk Areas/Populations, Target Prevention/Control Measures, Estimate Disease Burden"
+Q685_question_answer,"After a positive screening test, the confirmation of chronic viral hepatitis C infection involves confirmation of HCV Ab testing using ELISA and detection of HCV RNA through RNA testing. The presence of detectable HCV RNA indicates an active infection, whereas undetectable RNA suggests past infection or a false-positive serological result."
+Q685_reference_document,Document
+Q685_paragraph(s)_number,0
+Q685_keywords,"HCV, Hepatitis C, Screening, Confirmation, RNA Testing"
+Q686_question_answer,I don't know.
+Q686_reference_document,0
+Q686_paragraph(s)_number,0
+Q686_keywords,0
+Q687_question_answer,"References for the prevention and control of viral hepatitis can be found in the following documents:
+
+* WHO Recommended Strategies for Prevention and Control of Communicable Diseases: WHO/CDS/CPE/SMT/2001.13
+* WHO Recommended Surveillance Standards: WHO/CDS/CSR/ISR/99.2
+* WHO Fact Sheet No 328, Hepatitis A, revised May 2008.
+* WHO Fact Sheet No 204, Hepatitis B, revised August 2008
+* WHO Fact Sheet No 164, Hepatitis C.
+* WHO Fact Sheet No 280, Hepatitis E, revised January 2005.
+* WHO Fact Sheet on Hepatitis B and C testing, February 2017
+* World Health Organization website: http://www.who.int/topics/hepatitis/en/
+* United States, Centers for Disease Control and Prevention website: http://www.cdc.gov/hepatitis/
+* Control of Communicable Diseases Manual, 18th Edition
+* WHO Guidelines for the prevention, care and treatment of persons with chronic hepatitis B infection; March 2015
+* WHO Guidelines for the screening, care and treatment of persons with chronic hepatitis C infection; April 2016
+* WHO Global Hepatitis Report 2017"
+Q687_reference_document,TG Booklet 6
+Q687_paragraph(s)_number,131
+Q687_keywords,"References: Prevention, Control, Viral Hepatitis, WHO Documents, CDC Website, Control of Communicable Diseases Manual"
+Q696_question_answer,I do not have enough information to answer this question.
+Q696_reference_document,0
+Q696_paragraph(s)_number,0
+Q696_keywords,0
+Q697_question_answer,"I apologize, but the retrieved contexts do not contain information about where to find guidelines for the prevention, care, and treatment of chronic viral hepatitis."
+Q697_reference_document,0
+Q697_paragraph(s)_number,0
+Q697_keywords,0
+Q698_question_answer,1. true product reaction; 2. product defect; 3. immunization error; 4. immunization stress-related response; and 5. a coincidental health event.
+Q698_reference_document,TG Booklet 1
+Q698_paragraph(s)_number,133
+Q698_keywords,"Background, AEFI surveillance, Quality Assurance, National immunization programmes, True product reaction, Product defect, Immunization error, Immunization stress-related response, Coincidental health event, Serious AEFIs, Investigation, Surveillance goal, Monitor vaccine safety post-licensure, respond to safety concerns, Standard case definition, untoward medical occurrence, unfavorable/unintended sign, symptom, disease, Minor AEFIs"
+Q701_question_answer,"Offer treatment to the patient, then communicate with the concerned parents and community that AEFI can occur after any type of vaccination. Respond to rumors or public inquiries, and complete relevant case reporting forms. "
+Q701_reference_document,TG Booklet 6
+Q701_paragraph(s)_number,141
+Q701_keywords,"AEFI Response, Treatment, Communication"
+Q706_question_answer,"Serious Adverse Events Following Immunization (AEFI) are life-threatening, require hospitalization, result in persistent disability, are congenital anomalies, or require intervention to prevent permanent damage, while minor AEFIs have no long-term consequences. "
+Q706_reference_document,Document
+Q706_paragraph(s)_number,0
+Q706_keywords,"Minor Adverse Events, Serious Adverse Events, Life-Threatening, Hospitalization, Disability, Congenital Anomalies, Intervention, Permanent Damage"
+Q707_question_answer,"Sorry, I could not find the answer to which document provides the global manual on surveillance of Adverse Events Following Immunization (AEFI) in the provided context."
+Q707_reference_document,0
+Q707_paragraph(s)_number,0
+Q707_keywords,0
+Q710_question_answer,"The goal of AEFI surveillance is to monitor the safety of vaccines and immunization post-licensure and respond to safety concerns, while the standard case definition for AEFI is any untoward medical occurrence that follows immunization and does not necessarily have a causal relationship with the usage of the vaccine."
+Q710_reference_document,TG Booklet 2
+Q710_paragraph(s)_number,133
+Q710_keywords,"Surveillance Goal, Standard Case Definition, AEFI"
+Q713_question_answer,"Anthrax is an acute illness caused by Bacillus anthracis, which is a gram positive, encapsulated, spore forming and none motile bacteria. The disease primarily affects herbivorous wild and domestic animals, and humans and carnivores can also be affected in some cases."
+Q713_reference_document,TG Booklet 4
+Q713_paragraph(s)_number,1978
+Q713_keywords,"Bacteria, Disease, Infection, Anthrax, Gram Positive, Encapsulated, Spore Forming, Transmissions"
+Q714_question_answer,"The incubation period for Anthrax typically ranges from 1 to 7 days, but may be longer (up to two to three weeks for cutaneous anthrax and up to 42 days for inhalation anthrax). Human infection can take three forms: cutaneous, inhalation, and gastrointestinal."
+Q714_reference_document,TG Booklet 4
+Q714_paragraph(s)_number,135
+Q714_keywords,"Incubation Period, Human Infection Forms, Anthrax"
+Q717_question_answer,"If a single case is suspected, report case-based information immediately to the appropriate levels (public health sector and animal health sector); use standard barrier precautions for all forms, protective equipment and clothing (gloves, gowns, face shields), and respiratory protection if there is a risk of aerosols, disinfection and dressing any cuts and abrasion before putting on protective clothing; perform environmental cleaning (disinfection) with hypochlorite; treat and manage the patient with supportive care and using antibiotics such as Penicillin V,  procaine penicillin (uncomplicated cases), or penicillin G (severe cases); collect specimen safely to confirm the case; conduct joint (public health and animal health sectors) investigation of cases/deaths; vaccination is required for animals when exported/imported and in humans, selective preventive vaccination may be utilized."
+Q717_reference_document,TG Booklet 6
+Q717_paragraph(s)_number,137
+Q717_keywords,"Anthrax, Case Suspicion, Reporting, Barrier Precautions, Protective Equipment, Environmental Cleaning, Medical Management, Sample Collection, Investigation, Vaccination"
+Q722_question_answer,"This context does not contain information on where additional information and resources on Anthrax can be found, so I cannot answer this question."
+Q722_reference_document,0
+Q722_paragraph(s)_number,0
+Q722_keywords,0
+Q725_question_answer,"The gastrointestinal form of Anthrax carries an increased risk of explosive outbreaks, primarily due to its transmission through ingesting infected meat."
+Q725_reference_document,"[Document(page_content='disease. Biting flies have been reported to transmit the disease from infected animals to humans however how readily or often this occurs is unknown. Human anthrax is a serious problem in several countries and has potential for explosive outbreaks (especially the gastrointestinal form that is contracted from eating infected meat); while pulmonary (inhalation) anthrax is mainly occupational, the threat of biological warfare attacks should not be forgotten. Anthrax has a serious impact on the trade of animal products. The control of anthrax is based on its prevention in livestock. Programmes based only on prevention in humans are costly and likely to be ineffective except for those industrially exposed. There is an effective vaccine for those persons considered at risk for occupational exposure, and successful vaccines are used for livestock, particularly for herds with ongoing exposure to contaminated soil or vegetation. In most countries anthrax is a notifiable disease.﷐Surveillance')] "
+Q725_paragraph(s)_number,0
+Q725_keywords,0
+Q726_question_answer,"Anthrax cases should be reported immediately to appropriate authorities in both public health sectors and animal health sectors. Urgent reporting is necessary to ensure prompt response, including implementing control measures, preventing further spread, and providing treatment to the affected individual."
+Q726_reference_document,TG Booklet 4
+Q726_paragraph(s)_number,137
+Q726_keywords,"Anthrax Reporting, Immediate Response, Public Health, Animal Health, Control Measures, Prevention"
+Q731_question_answer,"The MenAfriVac vaccine has had a significant impact on reducing the circulation of Nm A and eliminating Nm A epidemics. In contrast, epidemics from other serogroups continue to occur, such as Nm serogroup C in Nigeria and Niger, Nm serogroup W and Streptococcus pneumoniae in Ghana, Nm serogroup W in Togo, and Nm serogroup X in Burkina and Niger."
+Q731_reference_document,TG Booklet 6
+Q731_paragraph(s)_number,142-145
+Q731_keywords,"MenAfriVac Vaccine, Nm A Epidemics, Other Serogroups Epidemics, Nm C, Nm W, Streptococcus pneumoniae, Nm X"
+Q736_question_answer,"Microscopic examination of CSF for Gram-negative diplococci
+Culture and isolation of N. meningitidis, Streptococcus pneumoniae, and Haemophilus influenzae b from CSF or blood
+RT-PCR (national reference laboratory)"
+Q736_reference_document,"TG Booklet 2,"
+Q736_paragraph(s)_number,147
+Q736_keywords,"Microscopic Examination, Bacterial Culture, RT-PCR"
+Q737_question_answer,"Polysaccharide vaccines are not recommended for very young children (<2 years) because they do not protect them effectively. Additionally, the protection duration of polysaccharide vaccines is limited, lasting up to three years."
+Q737_reference_document,"Document(page_content='among untreated cases. Many survivors suffer long-term sequelae including mental retardation, hearing loss and loss of limb use. Ceftriaxone is the drug of choice for treatment during epidemics because it is effective on the predominant meningitis pathogens. In addition, antimicrobial resistance to ceftriaxone has not yet been detected in Africa. During epidemics in the meningitis belt, antibiotic prophylaxis is not recommended The current response to meningitis epidemics consists of reactive mass vaccination campaigns with bivalent (A C) or trivalent/quatrivalent polysaccharide vaccine (A, C, W/ A, C, Y W) as soon as possible after an epidemic has been declared. Polysaccharide vaccines do not protect very young children (<2 years) and only provide protection for up to three years. ﷐Surveillance goals﷐To promptly detect meningitis outbreaks and to confirm aetiology of meningitis outbreaks. To use the data to plan for treatment and vaccination supplies and other prevention and control')]"
+Q737_paragraph(s)_number,0
+Q737_keywords,0
+Q741_question_answer,"MenAfriVac vaccine has dramatically reduced the circulation of Nm A and eliminated Nm A epidemics, while other serogroups, such as Nm C, W, and X, continue to cause epidemics."
+Q741_reference_document,TG Booklet 6
+Q741_paragraph(s)_number,142
+Q741_keywords,"MenAfriVac, NM Serogroup A Epidemics, Other Serogroups Epidemics, Nm C, Nm W, Nm X"
+Q746_question_answer,Cerebrospinal fluid (CSF) is the preferred specimen for diagnosing bacterial meningitis because it is in direct contact with the infected meninges.
+Q746_reference_document,TG Booklet 4
+Q746_paragraph(s)_number,147
+Q746_keywords,"CSF, Cerebrospinal Fluid, Bacterial Meningitis, Specimen of Choice"
+Q747_question_answer,"I am sorry, but I cannot answer this question because the provided contexts do not contain information about the long-term sequelae suffered by bacterial meningitis survivors or the complications that are commonly observed."
+Q747_reference_document,0
+Q747_paragraph(s)_number,0
+Q747_keywords,0
+Q750_question_answer,0
+Q750_reference_document,0
+Q750_paragraph(s)_number,0
+Q750_keywords,0
+Q753_question_answer,I do not have enough information to answer this question.
+Q753_reference_document,0
+Q753_paragraph(s)_number,0
+Q753_keywords,0
+Q754_question_answer,"For Buruli ulcer (BU) confirmation, specimens should be collected from suspected patients with clinical symptoms such as nodules, plaques, ulcers, or osteomyelitis.
+
+It is recommended to collect specimens before antibiotics are administered. If treatment proves ineffective or surgery is indicated, another specimen should be collected at the end of the treatment."
+Q754_reference_document,"TG Booklet 4, Paragraph(s) Number: 152, Content: Laboratory Confirmation\ufdd0Diagnostic test\ufdd0Mycobacterium ulcerans: Smears and biopsy specimens can be sent to the laboratory for confirmation by:\u2029Ziehl-Neelsen stain for acid-fast bacilli\u2029Culture\u2029PCR\u2029Histopathology\u2029Mycolactone detection in lesion (new)\ufdd0Specimen\ufdd0Smears\u2029Fine needle aspirations (FNAs)\u2029Biopsy specimens\ufdd0When to collect the specimen\ufdd0Specimens should be collected from suspected patient with clinical symptoms (nodule, plaque, ulcer, osteomyelitis ...)\u2029Specimen should be collected before any antibiotic is given. Another specimen should be collected at the end of the treatment (in case the treatment is not efficacious or surgery is indicated)\ufdd0How to prepare, store, and transport the specimen\ufdd0Collection of specimen: it is important to avoid cross contamination between the collection of samples\u2029Materials: Dry swabs and recipients.\u2029Types of specimens: No ulcerative forms, ulcerative forms, bone: Store at"
+Q754_paragraph(s)_number,0
+Q754_keywords,"Smears,Fine needle aspirations (FNAs),Biopsy specimens,Specimens should be collected from suspected patient with clinical symptoms (nodule, plaque, ulcer, osteomyelitis ...),Specimen should be collected before any antibiotic is given"
+Q756_question_answer,"Information on the number of BU cases in the WHO African Region in 2017, and how it compares with the global burden is not available in this context."
+Q756_reference_document,0
+Q756_paragraph(s)_number,0
+Q756_keywords,0
+Q760_question_answer,"When the BU epidemic threshold is reached, specific actions are taken, including communication of affected health centers about laboratory confirmation, implementation of emergency response such as immunization activities, community awareness campaign, and enhancement of infection control practices in healthcare settings."
+Q760_reference_document,TG Booklet 3
+Q760_paragraph(s)_number,887
+Q760_keywords,"BU, Epidemic Threshold, Actions, Communication, Laboratory Confirmation, Emergency Response, Immunization, Community Awareness, Infection Control"
+Q763_question_answer,"I am sorry, but the standard case definition for Chikungunya cannot be found in the context."
+Q763_reference_document,0
+Q763_paragraph(s)_number,0
+Q763_keywords,0
+Q769_question_answer,I do not have the information needed to answer your question on Chikungunya alert threshold.
+Q769_reference_document,0
+Q769_paragraph(s)_number,0
+Q769_keywords,0
+Q772_question_answer,"I apologize, but the provided context does not contain information specific to standard case definitions of Chikungunya and Buruli Ulcer or any comparison between the two diseases."
+Q772_reference_document,0
+Q772_paragraph(s)_number,0
+Q772_keywords,0
+Q774_question_answer,"I'm sorry, but I cannot find information on recommended antibiotics for the treatment of Bacterial Meningitis or Buruli Ulcer in the provided text."
+Q774_reference_document,0
+Q774_paragraph(s)_number,0
+Q774_keywords,0
+Q776_question_answer,0
+Q776_reference_document,0
+Q776_paragraph(s)_number,0
+Q776_keywords,0
+Q777_question_answer,"I cannot answer the question as there is no information in the provided context about the regions where Chikungunya and Buruli Ulcer are most prevalent, and the factors contributing to their geographical distribution."
+Q777_reference_document,0
+Q777_paragraph(s)_number,0
+Q777_keywords,0
+Q778_question_answer,"Buruli Ulcer patients are classified into three categories: 
+
+Category I: Single lesion ≤ 5 cm in diameter
+Category II: Single lesion 5-15 cm in diameter
+Category III: Single lesion ≥ 15 cm, multiple lesions, or lesion in critical sites (face, head and neck, breast, perineum, genitalia, spanning joints)"
+Q778_reference_document,TG Booklet 4
+Q778_paragraph(s)_number,149
+Q778_keywords,"Classification, Buruli Ulcer Patients, Categories, Lesion Size, Critical Sites"
+Q781_question_answer,"The alert threshold for Bacterial Meningitis is 3 suspected cases per 30,000 - 100,000 inhabitants per week and under 30,000 inhabitants is 2 suspected cases per week or an increased incidence compared to previous non-epidemic years. I do not have information about the response strategies to the alert threshold for Chikungunya."
+Q781_reference_document,TG Booklet 1
+Q781_paragraph(s)_number,888
+Q781_keywords,"Alert Threshold, Bacterial Meningitis, Suspected Cases, Epidemic Years"
+Q786_question_answer,"The context does not contain any information about the surveillance goals for Bacterial Meningitis and Buruli Ulcer, so I cannot answer this question."
+Q786_reference_document,0
+Q786_paragraph(s)_number,0
+Q786_keywords,0
+Q790_question_answer,"The provided context does not contain information about the laboratory confirmation methods for Bacterial Meningitis and Buruli Ulcer, so I cannot provide similarities or differences."
+Q790_reference_document,0
+Q790_paragraph(s)_number,0
+Q790_keywords,0
+Q792_question_answer,I cannot extract the requested information about cholera from the provided context.
+Q792_reference_document,0
+Q792_paragraph(s)_number,0
+Q792_keywords,0
+Q794_question_answer,"I apologize, but the provided context does not contain information about the pathogens that cause Cholera, Bacterial Meningitis, or Buruli Ulcer. Therefore, I cannot extract the requested data from the provided context."
+Q794_reference_document,0
+Q794_paragraph(s)_number,0
+Q794_keywords,0
+Q799_question_answer,I cannot answer the question because the provided context does not contain any information about the surveillance goals for Cholera and Bacterial Meningitis.
+Q799_reference_document,0
+Q799_paragraph(s)_number,0
+Q799_keywords,0
+Q800_question_answer,I cannot find the answer to your question. The document does not provide information about the actions to be taken during the alert threshold for Cholera or how they compare to the actions for Buruli Ulcer.
+Q800_reference_document,0
+Q800_paragraph(s)_number,0
+Q800_keywords,0
+Q801_question_answer,The utilization of cholera vaccine must be accompanied with strategies to improve water and sanitation.
+Q801_reference_document,Document(page_content='availability of clean drinking water.
+Q801_paragraph(s)_number,2
+Q801_keywords,"Cholera vaccine, Water and sanitation"
+Q803_question_answer,"During a cholera outbreak, stool specimens should be collected when there's a first suspected case and if there are more than one suspected case, collect until specimens have been collected from 5 to 10 cases. Make sure to collect from patients fitting the case definition, with onset within the last 5 days and before antibiotics treatment has started."
+Q803_reference_document,Results column).
+Q803_paragraph(s)_number,2
+Q803_keywords,"Stool Specimens, Collection, First Suspected Case, 5-10 Cases, Case Definition, 5 Days, Antibiotics Treatment"
+Q810_question_answer,"District, regional, and national levels should be involved in responding to the alert threshold for Buruli Ulcer. Completing the case report form with origin village GPS data is crucial to investigate other instances in the original village and effectively manage the outbreak."
+Q810_reference_document,TG Booklet 1
+Q810_paragraph(s)_number,150
+Q810_keywords,"Alert Threshold Involvement, Origin Village GPS Data, Case Report Completion"
+Q811_question_answer,0
+Q811_reference_document,0
+Q811_paragraph(s)_number,0
+Q811_keywords,0
+Q813_question_answer,"I am sorry, but the provided context does not contain the information necessary to answer the question about the key components of the surveillance goal for Chikungunya and the importance of identifying high-risk areas."
+Q813_reference_document,0
+Q813_paragraph(s)_number,0
+Q813_keywords,0
+Q816_question_answer,"People with diabetes should be treated according to standardized case management guidelines set by the World Health Organization. To effectively combat diabetes, it's important to implement an integrated prevention and control program that focuses on diabetes through community awareness and education activities, following national guidelines."
+Q816_reference_document,TG Booklet 1
+Q816_paragraph(s)_number,166
+Q816_keywords,"Treatment, Prevention, Diabetes, Case Management Guidelines, Community Awareness, Education"
+Q817_question_answer,"I cannot answer the question as the retrieved context does not contain information on the recommended public health actions for diabetes, or why the analysis of data is important to understand trends."
+Q817_reference_document,0
+Q817_paragraph(s)_number,0
+Q817_keywords,0
+Q819_question_answer,The provided context does not contain the information necessary to answer the question about the key components of laboratory confirmation for diabetes and the importance of measuring glucose levels in various specimens.
+Q819_reference_document,0
+Q819_paragraph(s)_number,0
+Q819_keywords,0
+Q820_question_answer,"I do not know, the provided context does not contain information on why blood glucose measurements should be carried out on the day and time requested, or who should be involved in the analysis of data for non-communicable diseases."
+Q820_reference_document,0
+Q820_paragraph(s)_number,0
+Q820_keywords,0
+Q822_question_answer,"Obesity, physical inactivity and excessive alcohol consumption are modifiable risk factors because they can be changed personally. Awareness activities should target the entire community, including individuals who are overweight or obese, physically inactive, and consume excessive alcohol, as well as healthcare professionals and policymakers."
+Q822_reference_document,TG Booklet 6
+Q822_paragraph(s)_number,165
+Q822_keywords,"Modifiable Risk Factors, Obesity, Physical Inactivity, Excessive Alcohol Consumption"
+Q826_question_answer,"An upsurge in cholera cases occurred in Africa since the mid-1980s, and caused over 80% of the total cholera cases in 1999. Treatment centers must be established in local areas where cholera cases emerge to provide prompt treatment and contain the spread."
+Q826_reference_document,TG Booklet 6
+Q826_paragraph(s)_number,158
+Q826_keywords,"Cholera Resurgence, Cholera Treatment Centers"
+Q833_question_answer,I do not know the answer to this question. The provided text does not have any information about the importance of screening high-risk patients for diabetes or the key components of the laboratory confirmation for cholera.
+Q833_reference_document,0
+Q833_paragraph(s)_number,0
+Q833_keywords,0
+Q834_question_answer,"The incubation period for Shigella dysenteriae type 1 (SD1) is 1 to 4 days, whereas the incubation period for cholera is not mentioned in the provided context.
+
+Clinical characteristics of SD1 include acute fever and bloody diarrhoea, whereas cholera is not mentioned in the provided context.
+
+Prompt detection and response to outbreaks of these diseases are crucial because they can rapidly spread through faecal-oral transmission, leading to severe dehydration and potentially fatal complications, especially among vulnerable populations such as young children and elderly individuals."
+Q834_reference_document,TG Booklet 6
+Q834_paragraph(s)_number,168
+Q834_keywords,"Incubation Period, Clinical Characteristics, Shigella dysenteriae type 1 (SD1), Cholera, Prompt Detection, Response, Outbreaks, Faecal-Oral Transmission, Dehydration, Vulnerable Populations"
+Q837_question_answer,"I'm sorry, I cannot answer this question as the provided contexts don't contain any information regarding Diarrhoea with dehydration in children less than 5 years of age compared with Shigella dysenteriae type 1 (SD1) and cholera."
+Q837_reference_document,0
+Q837_paragraph(s)_number,0
+Q837_keywords,0
+Q838_question_answer,"When the number of cases or deaths increases, assess health worker practice of IMCI guidelines to ensure proper management of cases and improve performance for classifying and managing diarrhoea with dehydration in children less than 5 years of age."
+Q838_reference_document,"TG Booklet 6,"
+Q838_paragraph(s)_number,173
+Q838_keywords,"Diarrhoea Management, IMCI Guidelines Assessment, Reporting Cases, Investigating Cause, Home-Based Therapy"
+Q839_question_answer,I do not have enough information to answer this question. The provided context does not contain any information about diarrheal diseases transmitted through faecal-oral spread or the necessity of identifying high-risk populations for Diarrhoea with blood (Shigella).
+Q839_reference_document,0
+Q839_paragraph(s)_number,0
+Q839_keywords,0
+Q840_question_answer,"I'm sorry, but this document does not contain the answer to the question about the standard case definition for Chikungunya or the importance of establishing treatment centers in localities where cholera cases occur. Therefore, I am unable to provide an answer."
+Q840_reference_document,0
+Q840_paragraph(s)_number,0
+Q840_keywords,0
+Q846_question_answer,"There has been a resurgence of cholera in Africa since the mid-1980s, where at least 80% of the world’s cases occurred in 1999."
+Q846_reference_document,TG Booklet 6
+Q846_paragraph(s)_number,158
+Q846_keywords,"Resurgence, Cholera, Africa, Global Cases, Pandemics, Endemic Areas"
+Q847_question_answer,I am sorry I cannot answer this question. The provided context does not have information related to the populations at highest risk for Diabetes Mellitus.
+Q847_reference_document,0
+Q847_paragraph(s)_number,0
+Q847_keywords,0
+Q848_question_answer,"Type 2 diabetes is the most common type, accounting for 85% of cases, and it is affected by risk factors like age (45 or older), family history, and pregnancy complications, as well as modifiable factors such as obesity, physical inactivity, and excessive alcohol consumption."
+Q848_reference_document,TG Booklet 6
+Q848_paragraph(s)_number,165
+Q848_keywords,"Type 2 Diabetes, Risk Factors, Old Age, Family History, Obesity, Physical Inactivity, Excessive Alcohol Consumption"
+Q851_question_answer,"I do not know, the provided context does not contain that information."
+Q851_reference_document,0
+Q851_paragraph(s)_number,0
+Q851_keywords,0
+Q852_question_answer,I cannot find the answer to your question in the context.
+Q852_reference_document,0
+Q852_paragraph(s)_number,0
+Q852_keywords,0
+Q854_question_answer,Laboratory confirmation involves detecting virus RNA by reverse transcriptase-polymerase chain reaction or IgM antibodies directed against the virus.
+Q854_reference_document,0
+Q854_paragraph(s)_number,0
+Q854_keywords,0
+Q856_question_answer,Handle specimens from suspected viral hemorrhagic fever patients with extreme caution. Wear protective clothing and use barrier precautions.
+Q856_reference_document,Document
+Q856_paragraph(s)_number,HANDLE AND TRANSPORT SPECIMENS FROM SUSPECTED VHF PATIENTS WITH EXTREME CAUTION. WEAR PROTECTIVE CLOTHING AND USE BARRIER PRECAUTIONS.
+Q856_keywords,"Transporting Specimens, Viral Hemorrhagic Fever, Specimen Handling, Safety Measures"
+Q857_question_answer,Recognize the distribution of age and gender. Examine potential risk factors. Construct an epidemic curve. Design the necessary disease control measures.
+Q857_reference_document,0
+Q857_paragraph(s)_number,0
+Q857_keywords,0
+Q859_question_answer,I don't know.
+Q859_reference_document,0
+Q859_paragraph(s)_number,0
+Q859_keywords,0
+Q860_question_answer,Any person with one epileptic seizure
+Q860_reference_document,TG Booklet 1
+Q860_paragraph(s)_number,183
+Q860_keywords,"Epilepsy, Case Definition, Standard Case Definition"
+Q862_question_answer,All epilepsy cases should receive information and education measures on epilepsy and risk factors at the community level.
+Q862_reference_document,"Document(page_content='for abnormal increases on number of cases and propose appropriate environmental measures if needed. Confirmed cases Immediate treatment should be ensured starting with low doses of any anti-epileptic drug then increasing progressively until an effective steady state. In case of poor seizure control management strategies must be: increase the dose or try an alternative drug, refer to an upper level health structure. Referral to higher level health structure should be done if seizures continue regardless of pharmacological treatment or if first seizure occurs in an adult aged 30 years and above.﷐Respond to action threshold﷐All cases: Information and education measures on epilepsy and risk factors at community level﷐Analyse and interpret data﷐Person: Analyse sex and age distribution (by age group from 6 years onwards)  Time: Graph quarterly cases Place:Plot the distribution by area of residence')"
+Q862_paragraph(s)_number,0
+Q862_keywords,0
+Q866_question_answer,"Foodborne illnesses are caused by harmful substances such as bacteria, viruses, parasites, or fungi and their toxins that enter the body through consumption of food or water."
+Q866_reference_document,TG Booklet 4
+Q866_paragraph(s)_number,186
+Q866_keywords,"Foodborne Illnesses, Bacterial, Viral, Parasitic, Fungal Pathogens, Toxins, Consumption, Food, Water"
+Q867_question_answer,"The goal of surveillance for foodborne illnesses is to promptly identify any unusual cluster of diseases potentially transmitted through food, which may need a public health investigation or response."
+Q867_reference_document,Document
+Q867_paragraph(s)_number,"To promptly identify any unusual cluster of disease potentially transmitted through food, which may need a public health investigation or response. Monitor the magnitude of foodborne illnesses Identify high risk foods or food practices. Monitor risk factors to inform public health interventions and health promotion for targeted foods or food practices."
+Q867_keywords,"Surveillance, Foodborne illnesses, Outbreak, Public Health, Investigation"
+Q873_question_answer,"‘Hypertension’ or high blood pressure (HBP) is a chronic condition in which the blood pressure in the arteries is elevated. It is classified as either primary (essential) or secondary. ‘Primary’ hypertension is elevated blood pressure where no medical cause is found. ‘Secondary’ hypertension is caused by other conditions that affect the arteries, heart, endocrine system or kidneys."
+Q873_reference_document,TG Booklet 4
+Q873_paragraph(s)_number,188
+Q873_keywords,"Hypertension Classification: Primary, Secondary"
+Q877_question_answer,"The question is not directly answerable given the provided context. Therefore, I cannot supply the requested information."
+Q877_reference_document,0
+Q877_paragraph(s)_number,0
+Q877_keywords,0
+Q878_question_answer,I don't know
+Q878_reference_document,0
+Q878_paragraph(s)_number,0
+Q878_keywords,0
+Q884_question_answer,"For influenza virus, the best method to detect is the reverse transcriptase-polymerase chain reaction (RT-PCR) but virus culture is also needed for antigenic and genetic characterization of the virus."
+Q884_reference_document,TG Booklet 6
+Q884_paragraph(s)_number,195
+Q884_keywords,"Reverse transcriptase-polymerase chain reaction,Virus culture,Antigenic characterization,Genetic characterization"
+Q886_question_answer,I do not have enough information to compare the surveillance goals for influenza caused by a new subtype with those for Influenza-like Illness (ILI).
+Q886_reference_document,0
+Q886_paragraph(s)_number,0
+Q886_keywords,0
+Q887_question_answer,I don't know
+Q887_reference_document,0
+Q887_paragraph(s)_number,0
+Q887_keywords,0
+Q888_question_answer,"This context focuses on influenza caused by a new subtype, whereas details on ILI are missing. Due to this, I am unable to compare key steps involved in investigating influenza caused by a new subtype with those for ILI."
+Q888_reference_document,0
+Q888_paragraph(s)_number,0
+Q888_keywords,0
+Q897_question_answer,Health authorities should map the distribution of lymphatic filariasis and identify implementation units that will require mass drug administration. They should analyze drug coverage in implementation units and assess the decline of parasitological indices microfilaremia before starting mass drug administration (MDA) and after at least four rounds of MDA until the criteria of less than 1% microfilaraemia in the population and less than 0.1% antigenaemia in school entry children is achieved.
+Q897_reference_document,TG Booklet 6
+Q897_paragraph(s)_number,106
+Q897_keywords,"Data Analysis, Lymphatic Filariasis Control, Mass Drug Administration (MDA), Microfilaremia Decline, Antigenemia"
+Q901_question_answer,I don't know.
+Q901_reference_document,0
+Q901_paragraph(s)_number,0
+Q901_keywords,0
+Q902_question_answer,"When the alert and action thresholds for malaria are reached, health authorities are recommended to undertake actions such as communicating laboratory confirmation to affected health centers, implementing an emergency response, community awareness campaign, or improving infection control practices in the healthcare setting."
+Q902_reference_document,TG Booklet 1
+Q902_paragraph(s)_number,887
+Q902_keywords,"Action Thresholds, Malaria, Response Actions, Communication, Emergency Response, Community Awareness, Infection Control"
+Q903_question_answer,I do not have enough information to answer this question.
+Q903_reference_document,0
+Q903_paragraph(s)_number,0
+Q903_keywords,0
+Q904_question_answer,"To determine the threshold for a malaria epidemic, the median and the 3rd quartile of a specific time period are used, such as 5 years of health facility or district data by month or week."
+Q904_reference_document,TG Booklet 4
+Q904_paragraph(s)_number,209
+Q904_keywords,"Epidemic Threshold, Malaria, Median, 3rd Quartile, Time Period, Health Facility, District Data"
+Q905_question_answer,I don't know.
+Q905_reference_document,0
+Q905_paragraph(s)_number,0
+Q905_keywords,0
+Q912_question_answer,"I am sorry, but the provided context does not disclose the components of programs formed to eradicate malnutrition."
+Q912_reference_document,0
+Q912_paragraph(s)_number,0
+Q912_keywords,0
+Q913_question_answer,0
+Q913_reference_document,0
+Q913_paragraph(s)_number,0
+Q913_keywords,0
+Q915_question_answer,"I'm sorry, but I cannot answer this question, as there is no information in the provided context about the actions that should be taken in response to an alert threshold related to malnutrition in children."
+Q915_reference_document,0
+Q915_paragraph(s)_number,0
+Q915_keywords,0
+Q919_question_answer,I did not find an answer to this question based on the data provided.
+Q919_reference_document,0
+Q919_paragraph(s)_number,0
+Q919_keywords,0
+Q927_question_answer,I do not know the standard case definition for malnutrition in children under five.
+Q927_reference_document,0
+Q927_paragraph(s)_number,0
+Q927_keywords,0
+Q928_question_answer,"Deaths of women during pregnancy, childbirth, or termination of pregnancy, and deaths up to 6 weeks (42 days) after childbirth or termination of pregnancy related to pregnancy are considered maternal deaths."
+Q928_reference_document,"TG Booklet 1, Paragraph(s) Number: 224, Content: Background"
+Q928_paragraph(s)_number,"Filename: TG Booklet 1, Paragraph(s) Number: 224, Content: Background﷐Deaths of women during pregnancy, childbirth or termination of pregnancy, and deaths up to 6 weeks (42 days) after childbirth or termination of pregnancy related to pregnancy are considered Maternal Deaths. (NB. Those due to accidental or incidental causes are not considered as maternal deaths) Globally, about 80% of maternal deaths are due to; severe bleeding (mostly bleeding postpartum), infections (also mostly soon after delivery), hypertensive disorders in pregnancy (eclampsia) and obstructed labor. Complications after unsafe abortion cause 13% of maternal deaths.   Across the developing world, maternal mortality levels remain too high, with more than 500,000 women dying every year as a result of complications during pregnancy and childbirth. About half of these deaths occur in sub-Saharan Africa where a woman’s lifetime risk of maternal death is 1 in 22, compared with 1 in 8,000 in industrialized"
+Q928_keywords,Maternal Deaths: Pregnancy Related
+Q930_question_answer,"Globally, about 500,000 women annually die as a result of complications during pregnancy and childbirth."
+Q930_reference_document,"TG Booklet 6, Paragraph(s) Number: 224, Content: Background"
+Q930_paragraph(s)_number,"Across the developing world, maternal mortality levels remain too high, with more than 500,000 women dying every year as a result of complications during pregnancy and childbirth. About half of these deaths occur in sub-Saharan Africa where a woman’s lifetime risk of maternal death is 1 in 22, compared with 1 in 8,000 in industrialized"
+Q930_keywords,"Maternal Mortality, Pregnancy Complications, Childbirth Complications, Death Rates, Global Perspective"
+Q932_question_answer,A woman’s lifetime risk of maternal death in sub-Saharan Africa is 1 in 22.
+Q932_reference_document,Document
+Q932_paragraph(s)_number,0
+Q932_keywords,"sub-Saharan Africa, maternal death, lifetime risk"
+Q936_question_answer,"Maternal deaths occur during pregnancy, childbirth, or termination of pregnancy, and up to six weeks after childbirth or termination of pregnancy, that are directly or indirectly related to pregnancy."
+Q936_reference_document,TG Booklet 2
+Q936_paragraph(s)_number,224
+Q936_keywords,"Maternal Death, Related Complications, Direct or Indirect"
+Q940_question_answer,I do not have information on how data on maternal deaths should be analyzed and interpreted in the context.
+Q940_reference_document,0
+Q940_paragraph(s)_number,0
+Q940_keywords,0
+Q944_question_answer,"Hemorrhage is identified as a leading cause of maternal death in sub-Saharan Africa because it is the primary risk during childbirth, especially in rural regions due to limited access to medical facilities and care.,"
+Q944_reference_document,Document
+Q944_paragraph(s)_number,1
+Q944_keywords,"Hemorrhage, Maternal Death, Child Birth"
+Q947_question_answer,"Surveillance for maternal deaths should be conducted not just in labor wards, but in the community and all service areas where women are seen or die."
+Q947_reference_document,Document
+Q947_paragraph(s)_number,0
+Q947_keywords,"maternal death, labor wards, community, service areas"
+Q948_question_answer,"The death of a woman during pregnancy or within 42 days of its termination is significant, and triggers an alert threshold of ONE (1). This requires the health facility to immediately contact the district authority and provide information about the IDSR Case Alert form."
+Q948_reference_document,"Document(page_content='alert threshold: Maternal death﷐After determining that the death of a woman occurred during pregnancy or within 42 days of its termination, the initial notification of the suspected death should be done immediately (within 24 hours), by the fastest means possible  Every maternal death is significant and this puts the alert threshold at ONE (1) The health facility should contact the district authority and provide information about the IDSR Case Alert form. Moreover, the health facility maternal death review committee is required to review the case within 7 days  The initial notification should be followed by a written report using a maternal death review form; and this should be shared with the district/ regional MDR coordinator MDR should be anonymous and unlinked; and the reports should not be used for disciplinary of litigation   The initial notification should be followed by a written report using a maternal death review form/case investigation form.  ﷐Recommended public health')]"
+Q948_paragraph(s)_number,0
+Q948_keywords,0
+Q949_question_answer,"In the SDG reporting in 2030, countries will report pegged on an actual number, where no country should have a maternal mortality ratio (MMR) higher than 70 deaths/ 100 000 live births. This contrasts with the MDG approach, which proportioned its goal to a 75% reduction, regardless of the initial MMR of a country."
+Q949_reference_document,TG Booklet 4
+Q949_paragraph(s)_number,152
+Q949_keywords,"Maternal Mortality Reduction, SDG Reporting, MDG Approach, MMR"
+Q950_question_answer,"There is no information in the provided context regarding where data on maternal deaths should be analyzed and why it is important to analyze it in a specific manner. Therefore, I cannot answer this question."
+Q950_reference_document,0
+Q950_paragraph(s)_number,0
+Q950_keywords,0
+Q951_question_answer,"Maternal deaths continue to be a major global problem, particularly in sub-Saharan Africa where the lifetime risk of maternal death for a woman is 1 in 22 compared to 1 in 8,000 in industrialized countries."
+Q951_reference_document,Document
+Q951_paragraph(s)_number,0
+Q951_keywords,"Maternal Mortality, Sub-Saharan Africa, Lifetime Risk, Industrialized Countries"
+Q953_question_answer,"Measles is a highly contagious infectious disease caused by a virus, often characterized by fever, rash, cough, runny nose, and red, watery eyes. It is spread through the air via respiratory droplets when an infected person coughs or sneezes."
+Q953_reference_document,TG Booklet 2
+Q953_paragraph(s)_number,226
+Q953_keywords,"Measles, Infectious Disease, Virus, Fever, Rash, Cough, Runny Nose, Red Eyes, Airborne Transmission, Respiratory Droplets"
+Q957_question_answer,"The risk factors include low vaccine coverage (&lt;85 to 90%) resulting in the accumulation of susceptible individuals with high risk of measles. In areas with high population density, outbreaks can be explosive."
+Q957_reference_document,Document
+Q957_paragraph(s)_number,0
+Q957_keywords,"Risk Factors, Low Vaccine Coverage, Susceptible Individuals, Explosive Outbreaks, High Population Density"
+Q963_question_answer,I don't know
+Q963_reference_document,0
+Q963_paragraph(s)_number,0
+Q963_keywords,0
+Q964_question_answer,"To prepare specimens for measles testing, collect 1 to 5 ml of venous blood from children and store it at 4ºC. For serum separation, let the blood clot retract for 30 to 60 minutes at room temperature, centrifuge at 2000 rpm for 10-20 minutes, and pour off the serum into a clean glass tube. If no centrifuge is available, refrigerate the sample overnight for 6 hours until the clot retracts, or let it sit at an angle for at least 60 minutes without shaking or driving."
+Q964_reference_document,TG Booklet 6
+Q964_paragraph(s)_number,106
+Q964_keywords,"Measles, Specimen Preparation, Blood Collection, Centrifugation, Serum Storage"
+Q965_question_answer,I have no information about the reference for responding to measles outbreaks in measles mortality reduction settings in the context.
+Q965_reference_document,0
+Q965_paragraph(s)_number,0
+Q965_keywords,0
+Q967_question_answer,The African Regional guidelines for measles and rubella surveillance can be found at the World Health Organization's Regional Office for Africa website.
+Q967_reference_document,Document(page_content='http://apps.who.int/iris/bitstream/10665/70047/1/WHO_IVB_09.03_eng.pdf  WHO–recommended standards for surveillance of selected vaccine-preventable diseases (2018). http://www.who.int/immunization/monitoring_surveillance/burden/vpd/WHO_SurveillanceVaccinePreventable_11_Measles_R1.pdf?ua=1  World Health Organization. Regional Office for Africa. African Regional guidelines for measles and rubella surveillance- Revised April 2015.  http://www.afro.who.int/index.php?option=com_docman&task=doc_download&gid=10814&Itemid=2593')
+Q967_paragraph(s)_number,None
+Q967_keywords,Measles and Rubella Surveillance
+Q968_question_answer,"MERS is Middle East respiratory syndrome, a viral respiratory disease caused by a novel coronavirus known as MERS-CoV."
+Q968_reference_document,TG Booklet 4
+Q968_paragraph(s)_number,228
+Q968_keywords,"MERS, Middle East respiratory syndrome, MERS-COV, Virus, Respiratory Disease, Coronavirus"
+Q969_question_answer,"Typical MERS symptoms include fever, cough, and shortness of breath. Pneumonia is common, but not always present. Gastrointestinal symptoms, including diarrhea, have also been reported."
+Q969_reference_document,TG Booklet 2
+Q969_paragraph(s)_number,228
+Q969_keywords,"Symptoms, Fever, Cough, Shortness of Breath, Pneumonia, Diarrhea"
+Q972_question_answer,I do not know.
+Q972_reference_document,Not Applicable
+Q972_paragraph(s)_number,Not Applicable
+Q972_keywords,Not Applicable
+Q974_question_answer,"Lower respiratory tract specimens should, when possible, be collected for MERS-CoV testing. These include sputum, endotracheal aspirate, or bronchoalveolar lavage. If not possible, then upper respiratory tract specimens can be used."
+Q974_reference_document,Document
+Q974_paragraph(s)_number,0
+Q974_keywords,"Respiratory Specimens, Lower, Upper, Collection, MERS-CoV"
+Q975_question_answer,I do not have information about guidelines for responding to a suspected MERS case or outbreak.
+Q975_reference_document,0
+Q975_paragraph(s)_number,0
+Q975_keywords,0
+Q979_question_answer,Monkeypox primarily occurs in the rain forests in West and Central Africa.
+Q979_reference_document,"TG Booklet 6, "
+Q979_paragraph(s)_number,230
+Q979_keywords,"West and Central Africa, Rainforest, Monkeypox Occurrence"
+Q981_question_answer,Monkeypox is transmitted between humans through prolonged contact with respiratory droplets and contact with lesions or bodily fluids that contain the virus.
+Q981_reference_document,"Document(page_content='need to be educated about avoiding direct contact with animals, especially wild species."
+Q981_paragraph(s)_number,0
+Q981_keywords,"Human-to-human transmission, respiratory droplets, contact with lesions, bodily fluids"
+Q985_question_answer,"Democratic Republic of Congo, Sierra Leone, Liberia, Cote d’Ivoire, Nigeria, Cameroon, Gabon, Republic of Congo, Central African Republic, Sudan"
+Q985_reference_document,page_content
+Q985_paragraph(s)_number,1
+Q985_keywords,"Human monkeypox, countries, cases"
+Q986_question_answer,The incubation period of monkeypox is 6-16 days (range 5–21).
+Q986_reference_document,Document
+Q986_paragraph(s)_number,The incubation period of monkeypox is 6-16 days (range 5–21).
+Q986_keywords,"Monkeypox, Incubation Period, West African Strain, Central African Strains, Lymphadenopathy, Skin Eruption, Rash, Maculo-Papules, Vesicles"
+Q987_question_answer,"Clinical features of Monkeypox are fever, intense headache, lymphadenopathy, back pain, myalgia, and intense asthenia followed by a progressively developing rash."
+Q987_reference_document,Document
+Q987_paragraph(s)_number,0
+Q987_keywords,"fever, intense headache, lymphadenopathy, back pain, myalgia, intense asthenia, rash"
+Q988_question_answer,"Sorry, I cannot answer this question as the context does not provide the information on how Monkeypox is diagnosed in a laboratory."
+Q988_reference_document,0
+Q988_paragraph(s)_number,0
+Q988_keywords,0
+Q989_question_answer,"Optimal specimens for Monkeypox diagnosis are vesicular swabs of lesion exudate or crusts including biopsy specimens, scabs, vesicular fluid swabs, lesion skin, and pustule material."
+Q989_reference_document,TG Booklet 1
+Q989_paragraph(s)_number,233
+Q989_keywords,"MonkeyPox, Diagnostic test, Polymerase chain reaction (PCR) assay, Vesicular swabs, Lesion exudate, Crusts"
+Q994_question_answer,"AIDS is a virus, Human Immunodeficiency Virus (HIV), that attacks and weakens the immune system. It can be transmitted via sexual intercourse, needle sharing, infected blood, and from mother to child during pregnancy, childbirth, or breastfeeding."
+Q994_reference_document,TG Booklet 6
+Q994_paragraph(s)_number,239
+Q994_keywords,"AIDS Infection, HIV Virus, Transmission, Immune System Weakening"
+Q997_question_answer,0
+Q997_reference_document,0
+Q997_paragraph(s)_number,0
+Q997_keywords,0
+Q998_question_answer,"Sex workers, intravenous drug users, recipients of unscreened blood products, and infants born to HIV-infected mothers are at high risk of contracting HIV."
+Q998_reference_document,Document
+Q998_paragraph(s)_number,"Tuberculosis, visceral leishmaniasis, trypanosomiasis, and other subacute or chronic bacterial, parasitic, and viral infections may cause similar syndromes."
+Q998_keywords,"Sex workers, intravenous drug users, unscreened blood products, infants, HIV-infected mothers"
+Q999_question_answer,"Some symptoms are tuberculosis, bacterial pneumonia or sepsis, oro-pharyngeal candidiasis, chronic diarrhoea, chronic skin infections, and recurrent herpes zoster."
+Q999_reference_document,Document
+Q999_paragraph(s)_number,1
+Q999_keywords,"Opportunistic Infections, Symptoms, Tuberculosis, Diarrhea, Chronic Infections"
+Q1000_question_answer,I do not have information about the surveillance goal for HIV/AIDS.
+Q1000_reference_document,0
+Q1000_paragraph(s)_number,0
+Q1000_keywords,0
+Q1002_question_answer,"Public health actions for HIV/AIDS include promoting condom use, treating STIs, mobilizing non-paid blood donors, promoting proper blood usage, ensuring infection control practices in health facilities, and educating patients and their sexual partners about blood, tissue, semen, and breast milk donation."
+Q1002_reference_document,Document
+Q1002_paragraph(s)_number,0
+Q1002_keywords,"HIV/AIDS, Public Health Actions, Condom Use, STI Treatment, Blood Donor Mobilization, Blood Usage Promotion, Infection Control Practices, Patient Education"
+Q1004_question_answer,"I am sorry, but I cannot answer your question as the provided context does not contain information about the specimen used for HIV testing or how it is collected."
+Q1004_reference_document,0
+Q1004_paragraph(s)_number,0
+Q1004_keywords,0
+Q1006_question_answer,"Some references for HIV/AIDS surveillance include Tuberculosis, Malaria and HIV surveillance systems."
+Q1006_reference_document,TG Booklet 2
+Q1006_paragraph(s)_number,85
+Q1006_keywords,"Disease-specific surveillance, Tuberculosis, Malaria, HIV surveillance systems, Vertical surveillance"
+Q1007_question_answer,"The Global Strategy for Women’s, Children’s, and Adolescents’ Health aims to reduce neonatal mortality to less than 12 deaths per 1,000 births and stillbirths to less than 12 per 1,000 total births."
+Q1007_reference_document,TG Booklet 6
+Q1007_paragraph(s)_number,245
+Q1007_keywords,"Neonatal Mortality Reduction, Stillbirth Reduction, Global Health Goals"
+Q1010_question_answer,"A stillbirth is defined as any death of a baby before birth and with no signs of life at birth having a birthweight of at least 1,000 grams or at least 28 weeks gestation and 35 cm long."
+Q1010_reference_document,TG Booklet 6
+Q1010_paragraph(s)_number,246
+Q1010_keywords,"Stillbirth Definition, Baby Death Before Birth, No Signs of Life, Birthweight, Gestation Length, Birth Length"
+Q1015_question_answer,"I apologize, but I cannot answer your question as the provided context does not contain information about how data on perinatal deaths is analyzed and interpreted."
+Q1015_reference_document,0
+Q1015_paragraph(s)_number,0
+Q1015_keywords,0
+Q1017_question_answer,I do not know the answer.
+Q1017_reference_document,0
+Q1017_paragraph(s)_number,0
+Q1017_keywords,0
+Q1022_question_answer,"Anyone with unexplained fever (38°C or more) and cough of less than 5 days duration with at least one of the following signs or symptoms: chills, chest pain, or dyspnoea, and confirmed contact with a confirmed or probable pneumonia plague case (defined as a person with laboratory-confirmed/probable plague and pneumonia, or consistent with clinical presentation) during the 10 days before symptom onset."
+Q1022_reference_document,TG Booklet 6
+Q1022_paragraph(s)_number,141-142
+Q1022_keywords,"Suspected Case, Definition, Pneumonic Plague"
+Q1025_question_answer,"Measures for analyzing and interpreting data on pneumonic plague include graphing monthly trends in cases, deaths and treatment outcomes, constructing an epidemic curve, plotting the location of case households, immediate case-based reporting of cases and deaths for routine surveillance, counting weekly cases and deaths for outbreaks, analyzing age distribution and assessing risk factors."
+Q1025_reference_document,TG Booklet 6
+Q1025_paragraph(s)_number,167
+Q1025_keywords,"Analysis, Data Interpretation, Pneumonic Plague, Case Management, Outbreak Investigation, Surveillance, Reporting, Trends, Distribution, Risk Factors"
+Q1026_question_answer,Laboratory confirmation for pneumonic plague requires the isolation of Yersinia pestis in culture.
+Q1026_reference_document,Document
+Q1026_paragraph(s)_number,0
+Q1026_keywords,0
+Q1027_question_answer,"I apologize, but the provided document does not contain information on how to prepare, store, and transport clinical specimens for pneumonic plague."
+Q1027_reference_document,0
+Q1027_paragraph(s)_number,0
+Q1027_keywords,0
+Q1031_question_answer,"For paralytic cases of polio, the incubation period typically ranges from 7 to 14 days, however, it can vary between approximately 3 to 35 days."
+Q1031_reference_document,TG Booklet 1
+Q1031_paragraph(s)_number,259
+Q1031_keywords,"Poliovirus, Paralytic Cases, Incubation Period, Range"
+Q1033_question_answer,I do not have the information to answer your question.
+Q1033_reference_document,0
+Q1033_paragraph(s)_number,0
+Q1033_keywords,0
+Q1041_question_answer,"I do not have information about the incubation period for pneumonic plague. Therefore, I cannot compare it to the incubation period for paralytic polio."
+Q1041_reference_document,0
+Q1041_paragraph(s)_number,0
+Q1041_keywords,0
+Q1044_question_answer,"I apologize, but while the text includes information about Plague and Poliomyelitis, it does not provide a comparison of diagnostic tests and specimen requirements for the two diseases. Hence, I am unable to provide an answer to your question."
+Q1044_reference_document,0
+Q1044_paragraph(s)_number,0
+Q1044_keywords,0
+Q1046_question_answer,"Fluoroquinolones (Levofloxacin, Ciprofloxacin, Moxifloxacin), chloramphenicol, Doxycycline, gentamicin are recommended for treatment against pneumonic plague, and quick treatment is essential to prevent pneumonic or septicemic plague, which have higher case fatalities."
+Q1046_reference_document,TG Booklet 6
+Q1046_paragraph(s)_number,255
+Q1046_keywords,"Pneumonic Plague, Antibiotics, Fluoroquinolones, Doxycycline, Chloramphenicol, Gentamicin, Treatment Duration"
+Q1047_question_answer,"In plague endemic areas, the risk of human-to-human transmission of pneumonic plague is heightened, especially when healthcare services are limited, making prompt treatment challenging."
+Q1047_reference_document,"TG Booklet 4, Paragraph(s) Number: 254, Content: Background﷐Zoonotic systemic bacterial infection caused by Yersinia pestis (plague bacillus) usually transmitted to humans by rodent fleas or by handling an infected animal.  Main disease forms: bubonic, pneumonic or septicemic.  large-scale epidemics may occur in urban or rural settings.  If not treated, bubonic plague could lead to pneumonic or septicemic plague Human to human transmission only occurs with the pneumonic form of plague by infectious droplets Incubation period is 1 to 3 days Case fatality rate (CFR) is nearly 100% in untreated pneumonic or septicaemic plague. However, it is usually <1% with appropriate and timely treatment Risk factor:  Close contacts with pneumonic plague cases,  Exposed to endemic plague areas - populations of wild or domesticated rodents and their fleas  in plague endemic areas particularly where there are limited health care services to provide  timely treatment﷐Surveillance"
+Q1047_paragraph(s)_number,in plague endemic areas particularly where there are limited health care services to provide  timely treatment﷐Surveillance
+Q1047_keywords,"Pneumonic Plague, Human-to-Human Transmission, Risk, Limited Healthcare, Plague Endemic Areas"
+Q1050_question_answer,"I am sorry I cannot answer the question as the context does not contain information on plague and polio, or resources for health professionals and authorities."
+Q1050_reference_document,none
+Q1050_paragraph(s)_number,none
+Q1050_keywords,none
+Q1052_question_answer,"I am sorry, but I cannot find the information you are looking for in the provided context."
+Q1052_reference_document,0
+Q1052_paragraph(s)_number,0
+Q1052_keywords,0
+Q1057_question_answer,Tuberculosis presents a higher risk of death for individuals with HIV/AIDS and other immunocompromising conditions.
+Q1057_reference_document,"Document(page_content='of dying from TB include people with HIV/AIDS, malnutrition and other immuno-compromising conditions, the very young, and the very old. The global HIV pandemic has been a major cause of increasing TB cases, especially in African countries. Incubation period is approximately 1 to 3 months. WHO recommends the Directly Observed Therapy, Short-course (DOTS) strategy to maximize compliance and treatment efficacy and to reduce development of drug-resistant strains. The DOTS strategy has been implemented by at least 40 of 46 Member States in the African Region. Varying degrees of success have been achieved in controlling TB where resources and motivation for diagnosis, treatment, and patient follow up are adequate. Clinically, bacterial pneumonia, malaria, trypanosomiasis, HIV/AIDS and a variety of other bacterial, parasitic, and viral infections may cause similar syndromes of fever, cough, fatigue, and weight loss, or may themselves precipitate active TB in an already infected individual.')"
+Q1057_paragraph(s)_number,1
+Q1057_keywords,Risk Associated with Untreated Tuberculosis
+Q1060_question_answer,"I apologize, but this document does not contain information on where additional information on tuberculosis and typhoid fever can be found. Thus, I cannot answer your question."
+Q1060_reference_document,0
+Q1060_paragraph(s)_number,0
+Q1060_keywords,0
+Q1066_question_answer,"Case-based surveillance is important for diseases targeted for elimination or eradication because it allows for the rapid identification and follow-up of every individual case, facilitating effective containment and prevention efforts."
+Q1066_reference_document,TG Booklet 1
+Q1066_paragraph(s)_number,81
+Q1066_keywords,"Case-based Surveillance, Disease Elimination, Eradication, Rapid Case Identification, Case Follow-up"
+Q1068_question_answer,"I'm sorry, but the context you provided does not contain the answer to who is responsible for reporting individual cases immediately in case-based surveillance systems."
+Q1068_reference_document,0
+Q1068_paragraph(s)_number,0
+Q1068_keywords,0
+Q1070_question_answer,Sentinel sites are typically located in areas where there is a high risk of disease or condition of concern or in areas that are representative of a larger population. This is to ensure that any changes in the occurrence of the disease or condition can be quickly detected and responded to.
+Q1070_reference_document,TG Booklet 1
+Q1070_paragraph(s)_number,82
+Q1070_keywords,"Sentinel Sites, Representative Area, High-Risk Areas"
+Q1073_question_answer,"Disease-specific surveillance allows for targeted monitoring of health data for a particular disease, aiding in effective disease control and prevention. It benefits public health agencies and healthcare professionals by enabling them to design and implement targeted interventions, monitor disease trends, and evaluate the effectiveness of control measures."
+Q1073_reference_document,TG Booklet 1
+Q1073_paragraph(s)_number,85
+Q1073_keywords,"Disease-Specific Surveillance, Targeted Health Data, Public Health Agencies, Healthcare Professionals, Disease Control, Prevention, Intervention Design, Implementation, Disease Trend Monitoring, Control Measure Evaluation"
+Q1074_question_answer,Community Based Surveillance involves community members who are identified as focal persons reporting to Health Surveillance Assistants in local health facilities. The strategies include identifying and reporting events based on agreed indicators (lay case definitions) and reporting of noteworthy events by trusted community members.
+Q1074_reference_document,TG Booklet 1
+Q1074_paragraph(s)_number,86
+Q1074_keywords,"Community Based Surveillance, Focal Persons, lay case definitions"
+Q1076_question_answer,Every individual case is reported to the next level of surveillance.
+Q1076_reference_document,TG Booklet 1
+Q1076_paragraph(s)_number,81
+Q1076_keywords,"Case Based Surveillance, Case Identification, Case Follow-up"
+Q1082_question_answer,"Events monitored are unusual disease or death in humans or animals, unusual clustering of cases, and environmental conditions."
+Q1082_reference_document,TG Booklet 4
+Q1082_paragraph(s)_number,94
+Q1082_keywords,"Event-Based Surveillance, Monitoring Events, Disease, Death, Human, Animal, Environmental Conditions"
+Q1084_question_answer,"Event-based surveillance is considered sensitive because it involves screening all available information to detect any unusual disease, death, or conditions occurring in the community, rather than relying on routine monitoring of indicators and automated thresholds."
+Q1084_reference_document,TG Booklet 4
+Q1084_paragraph(s)_number,93-94
+Q1084_keywords,"Event-based Surveillance: Sensitivity, Information Screening, Disease Detection, Community Conditions"
+Q1085_question_answer,Event-based surveillance information should be synchronized with IBS immediately upon reception for rapid assessment of the risk the event poses to public health and responded to appropriately.
+Q1085_reference_document,TG Booklet 4
+Q1085_paragraph(s)_number,93
+Q1085_keywords,"Event-based Surveillance, Synchronization with IBS, Rapid Assessment, Public Health Risk"
+Q1086_question_answer,Event-based surveillance alerts overlap with indicator-based surveillance (IBS) in detecting small outbreaks early and picking up alerts indicating outbreaks in areas where access to healthcare is limited.
+Q1086_reference_document,TG Booklet 1
+Q1086_paragraph(s)_number,99
+Q1086_keywords,"Event-based Surveillance, Indicator-Based Surveillance, Early Warning Alert, Epidemic Response, Epidemic Intelligence, IDSR Strategy, Outbreak Detection, Limited Healthcare Access"
+Q1087_question_answer,I cannot find the answer to your question about the surveillance functions common to both IBS and EBS in the context you provided.
+Q1087_reference_document,0
+Q1087_paragraph(s)_number,0
+Q1087_keywords,0
+Q1089_question_answer,"EBS and IBS information follows the same reporting lines from the community to the health facility to the district and lastly, to the national level, which makes them complementary."
+Q1089_reference_document,"TG Booklet 6, Page 10"
+Q1089_paragraph(s)_number,2
+Q1089_keywords,"EBS, IBS, Information Sources, Reporting"
+Q1093_question_answer,"I apologize, but the provided context does not specify who the IDSR strategy assists to better monitor and track planned targets. Therefore, I am unable to answer your question."
+Q1093_reference_document,0
+Q1093_paragraph(s)_number,0
+Q1093_keywords,0
+Q1095_question_answer,"I'm sorry, but I don't know the definition of a disaster according to the IDSR and DRM. The retrieved documents do not contain information on this topic."
+Q1095_reference_document,0
+Q1095_paragraph(s)_number,0
+Q1095_keywords,0
+Q1097_question_answer,The ultimate objective of DRM is reducing risk by reducing vulnerability or improving the capacity to mitigate impact of a hazard.
+Q1097_reference_document,TG Booklet 4
+Q1097_paragraph(s)_number,156
+Q1097_keywords,"DRM Objective, Reducing Risk, Vulnerability Reduction, Hazard Impact Mitigation"
+Q1100_question_answer,Electronic IDSR (eIDSR) provides integration of various data sources and information systems from other health programs into a common platform or data warehouse.
+Q1100_reference_document,TG Booklet 1
+Q1100_paragraph(s)_number,578
+Q1100_keywords,"Data Source Integration, Information System Integration, Common Platform, Data Warehouse"
+Q1103_question_answer,"The Joint External Evaluation (JEE) is the tool used by most countries to evaluate their national surveillance, epidemic preparedness, and response systems."
+Q1103_reference_document,TG Booklet 4
+Q1103_paragraph(s)_number,311
+Q1103_keywords,"JEE, Country Capacity Assessment, Public Health Events Prevention, Detection, Response"
+Q1104_question_answer,"While preparing a district-specific action plan for surveillance and response, the national strategic plan could serve as a reference document."
+Q1104_reference_document,TG Booklet 4
+Q1104_paragraph(s)_number,311
+Q1104_keywords,"National Strategic Plan, Reference Document, District-Specific Action Plan, Surveillance, Response"
+Q1105_question_answer,"The sources of information include health facilities and hospitals, laboratories including non-public ones, point of entry, community health workers and VHCs or focal points like shopkeepers, market women, barbers and farmers."
+Q1105_reference_document,TG Booklet 4
+Q1105_paragraph(s)_number,"316, 317, 318, 319, 320"
+Q1105_keywords,"Sources of Information about Health Events, Health Facilities, Hospitals, Laboratories, Public, Military, NGOs, Faith-based, Point of Entry, Community Health Workers, Animal Health Surveillance Assistants, VHCs, Focal Points, Shopkeepers, Market Women, Barbers, Farmers"
+Q1106_question_answer,I do not know.
+Q1106_reference_document,0
+Q1106_paragraph(s)_number,0
+Q1106_keywords,0
+Q1111_question_answer,"Any community member acceptable by the community can be a Village Health Committee (VHC) member. They should be selected by the communities they live in to increase empowerment and ownership of Community-Based Surveillance (CBS). Representatives could be religious, traditional or political leaders, school teachers, veterinarians, health extension workers, chemical sellers, and traditional healers. In some communities, a respected non-health person such as a barber, shop keeper, or who regularly talks to community members can also be an effective focal point."
+Q1111_reference_document,TG Booklet 2
+Q1111_paragraph(s)_number,467
+Q1111_keywords,"Community Representatives, VHC Membership, Community Empowerment, Ownership, Village Health Committee"
+Q1114_question_answer,I cannot find the requested information in the provided context.
+Q1114_reference_document,0
+Q1114_paragraph(s)_number,0
+Q1114_keywords,0
+Q1119_question_answer,"Humanitarian emergencies usually occur in locations where people are forced to live in congested settings with limited access to basic necessities like water, food, shelter, and social services."
+Q1119_reference_document,TG Booklet 2
+Q1119_paragraph(s)_number,82
+Q1119_keywords,"Population Displacement, Congested Conditions, Limited Access, Basic Needs, Death Risk, Epidemics, Endemic Diseases"
+Q1121_question_answer,The International Strategy for Disaster Reduction (ISDR) and the Center for Research on Environmental Decisions (CRED) define a disaster in the context of emergency situations.
+Q1121_reference_document,TG Booklet 1
+Q1121_paragraph(s)_number,90
+Q1121_keywords,"Disaster Definition, ISDR, CRED"
+Q1124_question_answer,"Humanitarian emergencies result in population displacement to congested settings, constraining access to basic needs and increasing the risk of death from common epidemic and endemic diseases."
+Q1124_reference_document,TG Booklet 4
+Q1124_paragraph(s)_number,82
+Q1124_keywords,"Humanitarian Emergencies, Health Services, Population Displacement, Service Constraints, Disease Risk Increase"
+Q1125_question_answer,I am sorry but I cannot answer this question as it is not in the provided text.
+Q1125_reference_document,0
+Q1125_paragraph(s)_number,0
+Q1125_keywords,0
+Q1126_question_answer,The core functions of the Integrated Disease Surveillance and Response (IDSR) in the context of complex humanitarian emergencies is to enhance the routine IDSR system to meet the public health surveillance needs.
+Q1126_reference_document,TG Booklet 4
+Q1126_paragraph(s)_number,83
+Q1126_keywords,"Tailored IDSR, Public Health Surveillance, Outbreak Response, Humanitarian Contexts"
+Q1127_question_answer,I cannot answer this question as the document does not contain information on the differences between a disaster and a humanitarian or complex emergency.
+Q1127_reference_document,0
+Q1127_paragraph(s)_number,0
+Q1127_keywords,0
+Q1129_question_answer,I do not know the answer.
+Q1129_reference_document,0
+Q1129_paragraph(s)_number,0
+Q1129_keywords,0
+Q1130_question_answer,"I am sorry, but the public health problems which should be the focus of the tailored IDSR during the acute phase of a humanitarian emergency are not mentioned in the context."
+Q1130_reference_document,0
+Q1130_paragraph(s)_number,0
+Q1130_keywords,0
+Q1132_question_answer,"Early warning is needed in humanitarian emergencies to facilitate public health response and prevent excess morbidity, mortality, and disability."
+Q1132_reference_document,TG Booklet 1
+Q1132_paragraph(s)_number,98
+Q1132_keywords,"Enhanced Surveillance, Public Health Response, Prevention, Morbidity, Mortality, Disability IDSR Modification"
+Q1134_question_answer,I cannot find information about the steps involved in the early warning system in the provided text.
+Q1134_reference_document,0
+Q1134_paragraph(s)_number,0
+Q1134_keywords,0
+Q1135_question_answer,"I do not have enough information to answer your question, as the provided materials do not contain any information about the role of early warning in reducing the impact of emergencies."
+Q1135_reference_document,0
+Q1135_paragraph(s)_number,0
+Q1135_keywords,0
+Q1140_question_answer,"I apologize, but the provided text does not contain information regarding the contrast between the objectives of standard IDSR and tailored IDSR in emergency contexts; therefore, I cannot answer your question."
+Q1140_reference_document,0
+Q1140_paragraph(s)_number,0
+Q1140_keywords,0
+Q1147_question_answer,"Gap analysis helps assess specific needs and the environment, as well as review the strengths and weaknesses of the national surveillance system, to identify available resources to reinforce IDSR."
+Q1147_reference_document,TG Booklet 2
+Q1147_paragraph(s)_number,118
+Q1147_keywords,"Specific Needs, Environmental Assessment, Strength and Weakness Review, National Surveillance System, Available Resource Identification, IDSR Reinforcement"
+Q1148_question_answer,"The Enhanced IDSR system in humanitarian crises should be based on the IDSR strategy, structures, tools, guidelines, and resources with flexibility to address surveillance and response needs of affected populations in emergencies."
+Q1148_reference_document,"TG Booklet 4,"
+Q1148_paragraph(s)_number,"84,"
+Q1148_keywords,"Enhanced IDSR, IDSR strategy, Flexibility, Surveillance, Response, Humanitarian Crises"
+Q1152_question_answer,"Event-based surveillance systems (EBS) are better at detecting small outbreaks early, while indicator-based surveillance systems (IBS) are better at monitoring disease trends over time and signaling the start of regular seasonal outbreaks. The two systems complement each other."
+Q1152_reference_document,TG Booklet 1
+Q1152_paragraph(s)_number,99
+Q1152_keywords,"Outbreak Detection, Event-based Surveillance, Indicator-based Surveillance"
+Q1159_question_answer,"The National Public Health Emergency Management Committee coordinated by the national PHEOC will be activated to support the coordination and response in the affected regions and districts, by the PHEOC."
+Q1159_reference_document,TG Booklet 4
+Q1159_paragraph(s)_number,128
+Q1159_keywords,"PHEOC, PHEMC, Coordination, Response, Support, Affected Regions"
+Q1161_question_answer,Coordinate disease surveillance and outbreak response in crisis-affected populations.
+Q1161_reference_document,TG Booklet 5
+Q1161_paragraph(s)_number,138
+Q1161_keywords,"Disease surveillance, Outbreak response, Crisis-affected populations"
+Q1166_question_answer,"I don't know, the context does not mention who should be responsible for ensuring the availability of quality-assured WHO-approved RDT kits during a crisis."
+Q1166_reference_document,0
+Q1166_paragraph(s)_number,0
+Q1166_keywords,0
+Q1169_question_answer,I do not have enough information to answer this question.
+Q1169_reference_document,0
+Q1169_paragraph(s)_number,0
+Q1169_keywords,0
+Q1172_question_answer,"To ensure that surveillance and response objectives have been achieved and are of high quality, regular supervision and support are essential in enhancing surveillance functions at all levels."
+Q1172_reference_document,TG Booklet 4
+Q1172_paragraph(s)_number,102
+Q1172_keywords,"Supervision, Support, Surveillance, Response, Quality"
+Q1173_question_answer,"I do not know, the provided context does not contain information about the critical aspects of feedback and dissemination in the context of IDSR during a humanitarian crisis."
+Q1173_reference_document,0
+Q1173_paragraph(s)_number,0
+Q1173_keywords,0
+Q1175_question_answer,"Outbreak preparedness in crisis-affected populations involves integrating efforts into the existing national IDSR framework, led by the Ministry of Health and supported by WHO and partners. In acute or complex emergencies, WHO and health cluster partners take the lead to enhance outbreak preparedness due to compromised health capacities."
+Q1175_reference_document,TG Booklet 1
+Q1175_paragraph(s)_number,227
+Q1175_keywords,"National IDSR Framework, Ministry of Health, WHO, Outbreak Preparedness, Crisis-Affected Populations, Acute or Complex Emergencies, Health Cluster Partners"
+Q1179_question_answer,Rapid response teams at national and sub-national levels that have been established as part of the national IDSR framework should undertake outbreak investigations during a humanitarian crisis.
+Q1179_reference_document,TG Booklet 4
+Q1179_paragraph(s)_number,260
+Q1179_keywords,"Outbreak Investigations, Rapid Response Teams, Humanitarian Crisis, National IDSR Framework"
+Q1180_question_answer,"The context mentions that alert and epidemic thresholds are used in crisis-affected populations for alert and epidemic detection, but it does not specify the actual values of these thresholds."
+Q1180_reference_document,0
+Q1180_paragraph(s)_number,0
+Q1180_keywords,0
+Q1182_question_answer,I don't know. The provided text does not mention why an exit strategy is important during the recovery phase of a crisis.
+Q1182_reference_document,0
+Q1182_paragraph(s)_number,0
+Q1182_keywords,0
+Q1184_question_answer,0
+Q1184_reference_document,0
+Q1184_paragraph(s)_number,0
+Q1184_keywords,0
+Q1186_question_answer,"In crisis-affected populations, additional risks and requirements for outbreak response activities involve strengthening existing or establishing new multi-sectoral outbreak control teams at national and sub-national levels, with designated roles and responsibilities for each team member, as outlined in the IDSR outbreak response guidelines. Furthermore, Health, Water Sanitation and Hygiene (WASH) and other relevant cluster partners should provide support for outbreak response activities."
+Q1186_reference_document,TG Booklet 1
+Q1186_paragraph(s)_number,263
+Q1186_keywords,"Additional Risks, Crisis Affected Populations, Outbreak Response Activities, Multi-Sectoral Outbreak Control Teams, IDSR Outbreak Response Guidelines, Support from WASH and Relevant Cluster Partners"
+Q1187_question_answer,"During the recovery phase of the crisis, countries should prepare an exit strategy by evaluating the events, identifying lessons learned, and documenting gaps to inform future prevention strategies."
+Q1187_reference_document,TG Booklet 2
+Q1187_paragraph(s)_number,265
+Q1187_keywords,"Exit Strategy, Recovery Phase, Evaluation, Lessons Learned, Prevention"
+Q1193_question_answer,Indicators are metrics used to evaluate the performance of a surveillance system and its ability to achieve its targets and objectives.
+Q1193_reference_document,TG Booklet 4
+Q1193_paragraph(s)_number,138
+Q1193_keywords,"Surveillance Performance, Target Achievement, Objective Assessment, Indicators"
+Q1195_question_answer,"The selection of appropriate indicators and data sources allows for the monitoring of system processes, such as the timeliness of reporting or the completeness of data, which helps to detect problems with the system."
+Q1195_reference_document,TG Booklet 4
+Q1195_paragraph(s)_number,140
+Q1195_keywords,"Appropriate Indicators, Data Sources, System Monitoring, Timeliness of Reporting, Completeness of Data, System Problems Detection"
+Q1197_question_answer,"Using indicators helps evaluate a surveillance system's performance in reaching its objectives. For example, an indicator can determine the proportion or percentage of facilities reporting, which can then be compared to a desired goal to assess progress and service quality."
+Q1197_reference_document,TG Booklet 4
+Q1197_paragraph(s)_number,138
+Q1197_keywords,"Performance Monitoring, Quality Assessment, Indicators, Surveillance System"
+Q1198_question_answer,I cannot find the answer to your question in the provided context about when monitoring indicators should be established to monitor core surveillance functions.
+Q1198_reference_document,0
+Q1198_paragraph(s)_number,0
+Q1198_keywords,0
+Q1199_question_answer,Cases should be recorded using a standardized case-based report form or a computer or other electronic device.
+Q1199_reference_document,TG Booklet 4
+Q1199_paragraph(s)_number,530
+Q1199_keywords,"Case Recording, Standardized Form, Electronic Reporting"
+Q1200_question_answer,"The core functions monitored in IDSR at the district level are not specified in the provided context, so I cannot answer this question."
+Q1200_reference_document,0
+Q1200_paragraph(s)_number,0
+Q1200_keywords,0
+Q1201_question_answer,"I am sorry, I cannot answer your question with the provided contexts since they do not contain information on who should ensure cases are identified and reported accurately and promptly for surveillance."
+Q1201_reference_document,0
+Q1201_paragraph(s)_number,0
+Q1201_keywords,0
+Q1203_question_answer,"I do not know, the provided context does not mention examples of indicators for monitoring core surveillance functions at the district level."
+Q1203_reference_document,0
+Q1203_paragraph(s)_number,0
+Q1203_keywords,0
+Q1205_question_answer,"I don't know. The context does not mention the steps involved in investigating and confirming the IDSR cases or outbreaks.
+"
+Q1205_reference_document,0
+Q1205_paragraph(s)_number,0
+Q1205_keywords,0
+Q1206_question_answer,I do not have the information you asked for because the context does not contain the answer.
+Q1206_reference_document,0
+Q1206_paragraph(s)_number,0
+Q1206_keywords,0
+Q1207_question_answer,"I don't know the answer to this question, as the context provided does not contain information about the components of an effective feedback system in the context of IDSR at the district level. Therefore, I cannot answer this question from the provided context"
+Q1207_reference_document,0
+Q1207_paragraph(s)_number,0
+Q1207_keywords,0
+Q1209_question_answer,"The Morbidity Mortality Weekly Report (MMWR), updated guidelines for evaluating public health surveillance systems by the United States Centers for Disease Control and Prevention (CDC) and the framework for evaluating public health surveillance systems for early detection of outbreaks are some of the tools which can be used to evaluate comprehensively surveillance systems."
+Q1209_reference_document,TG Booklet 1
+Q1209_paragraph(s)_number,210
+Q1209_keywords,"Morbidity Mortality Weekly Report, CDC, Public Health Surveillance, Outbreak Detection, Surveillance Evaluation"
+Q1212_question_answer,"Monitoring the timeliness and completeness of monthly reporting is important because it allows for the detection of problems, enabling prompt and effective responses. Additionally, timely and complete reports ensure accurate information for decision-making and outbreak detection, preventing missed opportunities for public health interventions."
+Q1212_reference_document,TG Booklet 4
+Q1212_paragraph(s)_number,212
+Q1212_keywords,"Timeliness, Completeness, Reporting, Problem Detection, Prompt Response, Accurate Information, Outbreak Detection, Decision-Making"
+Q1213_question_answer,"If reports are incomplete, they cannot accurately describe the problem; if reports are late or not submitted, aggregated information for the district or other administrative area will be inaccurate. Outbreaks can go undetected, and opportunities to respond to public health problems will be missed."
+Q1213_reference_document,TG Booklet 2
+Q1213_paragraph(s)_number,212
+Q1213_keywords,"Incomplete Reporting, Late Reporting, IDSR, Outbreaks, Public Health Problems"
+Q1214_question_answer,"The attributes of the surveillance system contribute to the overall quality of IDSR activities at the district level by ensuring the completeness, timeliness, usefulness, sensitivity, positive predictive value, specificity, and representativeness of the data."
+Q1214_reference_document,TG Booklet 2
+Q1214_paragraph(s)_number,0
+Q1214_keywords,0
+Q1216_question_answer,"I do not know, the provided context does not contain the information needed to answer the question."
+Q1216_reference_document,0
+Q1216_paragraph(s)_number,0
+Q1216_keywords,0
+Q1217_question_answer,residents to assist in evaluation of the surveillance and response systems of IDSR and other disease surveillance systems
+Q1217_reference_document,"TG Booklet 4, Paragraph(s) Number: 210"
+Q1217_paragraph(s)_number,210
+Q1217_keywords,Evaluation Surveillance Response Systems IDSR Residents FETP Field Epidemiology Training Program Countries
+Q1221_question_answer,Local health managers.
+Q1221_reference_document,TG Booklet 4
+Q1221_paragraph(s)_number,218
+Q1221_keywords,"Detection, Notification, Immediately Reportable Diseases or Events"
+Q1229_question_answer,"Completeness can be evaluated in the surveillance system by examining the percentage of ""unknown"" or ""blank"" responses to items on surveillance forms."
+Q1229_reference_document,TG Booklet 6
+Q1229_paragraph(s)_number,106
+Q1229_keywords,"Completeness, Validity, Data Quality, Surveillance, Unknown Responses, Blank Responses"
+Q1230_question_answer,"Percentage of ""unknown"" or ""blank"" responses to items on surveillance forms"
+Q1230_reference_document,0
+Q1230_paragraph(s)_number,0
+Q1230_keywords,0
+Q1236_question_answer,"I am sorry, but the given context does not provide information about how the completeness of case reporting can be monitored and improved in the context of IDSR, therefore I am unable to answer this question."
+Q1236_reference_document,0
+Q1236_paragraph(s)_number,0
+Q1236_keywords,0
+Q1239_question_answer,Monthly reporting.
+Q1239_reference_document,TG Booklet 4
+Q1239_paragraph(s)_number,211
+Q1239_keywords,"Completeness, Timeliness, Monitoring, Monthly Reporting"
+Q1246_question_answer,"I'm sorry, I cannot answer this question as the provided context does not contain any information about how community-based surveillance contributes to the overall quality of the surveillance system."
+Q1246_reference_document,0
+Q1246_paragraph(s)_number,0
+Q1246_keywords,0
