@@ -39,7 +39,7 @@ class Config:
                 Paragraph: 142, 154,
                 Keywords: Attack Rates: Bacterial Meningitis, Chikungunya, BU",
 
-    Now your turn to answer the question and you must provide the answer in this format\n{format_instructions}
+    Now your turn to answer the question and you must provide the answer in this format\n{format_instructions}. Don't add any additional information.
 
 
 """
