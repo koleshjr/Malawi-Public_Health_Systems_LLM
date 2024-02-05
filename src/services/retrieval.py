@@ -11,7 +11,7 @@ from langchain_core.pydantic_v1 import BaseModel, Field
 class RagOutput(BaseModel):
     answer: str = Field(description="The answer to the question")
     filename: str = Field(description="The filename of the document where the answer was found")
-    paragraph: str = Field(description="The paragraph(s) Number where the answer was found")
+    paragraph: str = Field(description="The paragraph Number or paragraphs numbers where the answer was found")
     keywords: str = Field(description="Important comma separated keywords from the context where the answer was found")
 
 

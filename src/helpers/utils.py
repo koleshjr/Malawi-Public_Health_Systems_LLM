@@ -76,5 +76,3 @@ def prepare_submit_files(df: pd.DataFrame):
         new_result_df = new_result_df.append(new_row, ignore_index=True)
 
     return new_result_df.fillna(0)
-
-

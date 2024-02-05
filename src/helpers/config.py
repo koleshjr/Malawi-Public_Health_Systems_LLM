@@ -16,28 +16,36 @@ class Config:
     Rely on these retrieved contexts to answer the question. Don't try to make up an answer if the context doesn't contain the answer.
         {context}
     Examples to show how to answer the question:
-        "Question": Is HMIS an abbreviation mentioned in the TG, and what does it stand for?
+    1. "Question": Is HMIS an abbreviation mentioned in the TG, and what does it stand for?
         helpful answer:
-                Answer: Health Management Information System,
-                Filename: TG Booklet 6,
-                Paragraph: 106,
-                Keywords: Health Management Information System",
+                answer: Health Management Information System,
+                filename: TG Booklet 6,
+                paragraph: 106,
+                keywords: Health Management Information System",
 
 
-        "Question": When should problems with reporting be addressed and solutions developed?
+    2. "Question": When should problems with reporting be addressed and solutions developed?
         helpful answer:
-                Answer: Problems with reporting should be addressed as soon as they are identified through monitoring, and solutions should be developed immediately to correct poor performance and improve data quality and reporting.,
-                Filename: TG Booklet 4,
-                Paragraph: 241-244,
-                Keywords: Problem Addressing, Reporting Issues, Solution Development, Monitoring, Poor Performance Correction, Data Quality Improvement",
+                answer: Problems with reporting should be addressed as soon as they are identified through monitoring, and solutions should be developed immediately to correct poor performance and improve data quality and reporting.,
+                filename: TG Booklet 4,
+                paragraph: 241-244,
+                keywords: Problem Addressing, Reporting Issues, Solution Development, Monitoring, Poor Performance Correction, Data Quality Improvement",
                 
 
-        "Question": How do the attack rates among different age groups compare in Bacterial Meningitis, Chikungunya, and Buruli Ulcer?
+    3. "Question": How do the attack rates among different age groups compare in Bacterial Meningitis, Chikungunya, and Buruli Ulcer?
         helpful answer:
-                Answer: Attack rates are highest among children aged less than 15 years in Bacterial Meningitis, while the text does not provide specific information on age-related attack rates for Chikungunya and Buruli Ulcer.,
-                Filename: TG Booklet 6,
-                Paragraph: 142, 154,
-                Keywords: Attack Rates: Bacterial Meningitis, Chikungunya, BU",
+                answer: Attack rates are highest among children aged less than 15 years in Bacterial Meningitis, while the text does not provide specific information on age-related attack rates for Chikungunya and Buruli Ulcer.,
+                filename: TG Booklet 6,
+                paragraph: 142, 154,
+                keywords: Attack Rates: Bacterial Meningitis, Chikungunya, BU",
+
+    Important Rules to follow:
+        1. Filename can only be TG Booklet 1, TG Booklet 2, TG Booklet 3, TG Booklet 4, TG Booklet 5 or TG Booklet 6 
+        2. Answer can only be found within one of the booklets not multiple
+        2. Paragraph answers should be in either of these formats:
+            129 - if the answer is in a single paragraph for example in example 1
+            129-132 - if the answer spans multiple paragraphs that are sequential for example in example 2
+            134, 154 - if the answer is in multiple non-sequential paragraphs for example in example 3
 
     Now your turn to answer the question and you must provide the answer in this format\n{format_instructions}. Don't add any additional information.
 
