@@ -81,6 +81,61 @@ if __name__ == "__main__":
             print(f"Error: {e} in row: {row}")
         # else:
         #     print(f"Skipping row: {row.Index} as it has already been answered")
+            
+    print("Correcting Nans in the answer column")
+    df_sub = pd.read_csv('src/competition_data/submission_full_mistral_improved.csv')
+    print(df_sub['answer'].isnull().sum())
+    print("Correcting Nans in the answer column")
+    while (pd.isna(df_sub['answer']).sum() > 0):
+        for row in df_sub.itertuples():
+            if pd.isna(row.answer):
+                try:
+                    print("<--------------------------------------------------------------------------------------->")
+                    print(f"Query: {row._2}")  # Access the second element by index
+                    print()
+
+                    answer = retrieval.retrieve_and_generate(embedding_function=embeddings.get_embedding_function(), query=row._2, template=Config.malawi_template, llm=llm)
+
+                    # Check if 'answer' is a list of dictionaries
+                    if isinstance(answer, list) and all(isinstance(item, dict) for item in answer):
+                        # Assume the first element in the list is the relevant one
+                        answer = answer[0]
+
+                    # Try the new extraction method
+                    answer_properties = answer.get('properties', None)
+                    if answer_properties:
+                        answer = {
+                            'answer': answer_properties.get('answer', None),
+                            'filename': answer_properties.get('filename', None),
+                            'paragraph': answer_properties.get('paragraph', None),
+                            'keywords': answer_properties.get('keywords', None)
+                        }
+                    else:
+                        # Fallback to the previous extraction method
+                        answer = {
+                            'answer': answer.get('answer', None),
+                            'filename': answer.get('filename', None),
+                            'paragraph': answer.get('paragraph', None),
+                            'keywords': answer.get('keywords', None)
+                        }
+
+                    print(f"Answer: {answer['answer']}")
+                    print()
+
+                    # Update the DataFrame with the new values
+                    df_sub.loc[row.Index, 'answer'] = answer['answer']
+                    df_sub.loc[row.Index, 'filename'] = answer['filename']
+                    df_sub.loc[row.Index, 'paragraph'] = answer['paragraph']
+                    df_sub.loc[row.Index, 'keywords'] = answer['keywords']
+
+                    # Save the updated DataFrame to CSV
+                    df_sub.to_csv("src/competition_data/submission_full_mistral_improved.csv", index=False)
+                    print("<--------------------------------------------------------------------------------------->")
+                except Exception as e:
+                    print(f"Error: {e} in row: {row}")
+            else:
+                print(f"Skipping row: {row.Index} as it has already been answered")
+    
 
     # Assuming prepare_submit_files is a function that processes df_sub
     prepare_submit_files(df_sub).to_csv("src/competition_data/submission_full_mistral_improved.csv", index=False)
