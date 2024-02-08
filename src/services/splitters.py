@@ -4,7 +4,7 @@ class Splitter:
     def __init__(self, splitter: str):
         self.splitter = splitter
 
-    def split(self, docs: str, chunk_size: int = 1000, chunk_overlap: int = 128):
+    def split(self, docs: str, chunk_size: int = 512, chunk_overlap: int = 64):
         if self.splitter == 'recursive':
             splitter = RecursiveCharacterTextSplitter(chunk_size = chunk_size, chunk_overlap = chunk_overlap)
             pages = splitter.split_text(docs)
