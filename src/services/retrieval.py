@@ -74,5 +74,17 @@ class Retrieval:
             ).assign(answer = rag_chain_from_docs)
 
             return rag_chain_with_source.invoke({"query": query})
+        
+    def retrieve_only(self, query: str, embedding_function: str):
+        if self.vector_store == 'chroma':
+            vector_index = Chroma(persist_directory = self.index_name, embedding_function = embedding_function)
+        elif self.vector_store == 'milvus':
+            vector_index = Milvus(embedding_function, connection_args = {"host": os.getenv('MILVUS_HOST'), "port": os.getenv('MILVUS_PORT'), "collection_name": self.index_name})
+        elif self.vector_store == 'faiss':
+            vector_index = FAISS.load_local(self.index_name, embedding_function)
+
+        docs = vector_index.similarity_search(query, k = 3)
+        return docs
+  
 
         

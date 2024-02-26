@@ -1,5 +1,6 @@
 import os
 import pandas as pd
+import re
 import warnings
 warnings.filterwarnings("ignore")
 
@@ -9,18 +10,28 @@ def prepare_train_examples(train_filepath: str)-> pd.DataFrame:
     train[['examples']].to_csv("src/data/train_examples.csv", index=False)
     return train['examples'][0: 4]
 
+
+
+def extract_booklet_number(filename: str) -> str:
+    match = re.search(r'TG Booklet \d+', filename)
+    if match:
+        return match.group()
+    else:
+        return ""
+
 def prepare_context_data(folder_path: str):
     # Initialize an empty list to store DataFrames
     dfs = []
 
     for file in os.listdir(folder_path):
-        for i in range(1, 7):
-            if str(i) in file:
-                # Create a DataFrame for each i with the format book_i
-                df = pd.read_excel(os.path.join(folder_path, file))
-                df.columns = ['paragraph', 'content']
-                df['filename'] = f"TG Booklet {i}"
-                dfs.append(df)
+        booklet_number = extract_booklet_number(file)
+        if booklet_number:
+            print(booklet_number)
+            # Create a DataFrame for each file with the format book_i
+            df = pd.read_excel(os.path.join(folder_path, file))
+            df.columns = ['paragraph', 'content']
+            df['filename'] = booklet_number
+            dfs.append(df)
 
     # Concatenate all the DataFrames into one
     merged_df = pd.concat(dfs, ignore_index=True)
@@ -33,6 +44,7 @@ def prepare_context_data(folder_path: str):
     )
 
     return merged_df[['context']]
+
 
 def load_test_data(test_filepath: str):
     df_test = pd.read_csv(test_filepath)
