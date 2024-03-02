@@ -30,11 +30,12 @@ if __name__ == "__main__":
         try:
             print("<--------------------------------------------------------------------------------------->")
             query = f'<s>[INST] Question: {row.question} \n{row.retrived_context} [/INST]'
-            print(f"Query: {query}")  # Access the second element by index
+            # print(f"Query: {query}")  # Access the second element by index
             print()
    
             answer = retrieval.answer_already_retrieved(query=query, llm=llm)
-            print(f"Answer: {answer.content}")
+            # print(f"Answer: {answer.content}")
+            print(f"finished row: {row.index}")
             print()
 
             df_sub.loc[row.Index, 'answer'] = answer.content
