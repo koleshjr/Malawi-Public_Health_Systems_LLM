@@ -3,7 +3,8 @@ from src.services.retrieval import Retrieval
 from src.services.embeddings import Embeddings
 from src.services.llms import Llms
 from src.helpers.config import Config
-from src.helpers.utils import load_test_data, prepare_submit_files
+from src.helpers.utils import load_test_data, prepare_submit_files, extract_info
+
 from langchain_core.runnables import ConfigurableField 
 
 
@@ -27,23 +28,22 @@ if __name__ == "__main__":
     for row in df_sub.itertuples():
         try:
             print("<--------------------------------------------------------------------------------------->")
-            print(f"Query: {row._2}")  # Access the second element by index
+            query = f'<s>[INST] Question: {row.question} \n{row.retrived_context} [/INST]'
+            print(f"Query: {query}")  # Access the second element by index
             print()
    
-            answer = retrieval.retrieve_and_generate(embedding_function=embeddings.get_embedding_function(), query=row._2, template=Config.malawi_template, llm=llm)
+            answer = retrieval.answer_already_retrieved(query=query, llm=llm)
             print(f"Answer: {answer}")
             print()
 
-            df_sub.loc[row.Index, 'answer'] = answer["answer"]
-            df_sub.loc[row.Index, 'filename'] = answer["filename"]
-            df_sub.loc[row.Index, 'paragraph'] = answer["paragraph"]
-            df_sub.loc[row.Index, 'keywords'] = answer["keywords"]
+            df_sub.loc[row.Index, 'answer'] = answer
 
-            df_sub.to_csv("src/competition_data/submission_gemini_progress.csv", index=False)
+
+            df_sub.to_csv(f"src/competition_data/submission_{args.model_name}_progress.csv", index=False)
             print("<--------------------------------------------------------------------------------------->")
         except Exception as e:
             print(f"Error: {e} in row: {row}")
-
+    df_sub['filename'], df_sub['paragraph'], df_sub['keywords'] = zip(*df_sub['answer'].apply(extract_info))
     prepare_submit_files(df_sub).to_csv("src/competition_data/submission_gemini.csv", index=False)
 
     

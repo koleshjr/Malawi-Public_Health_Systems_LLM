@@ -1,4 +1,5 @@
 import os
+import pandas as pd
 from typing import Optional
 from operator import itemgetter
 from dotenv import load_dotenv
@@ -84,7 +85,13 @@ class Retrieval:
             vector_index = FAISS.load_local(self.index_name, embedding_function)
 
         docs = vector_index.similarity_search(query, k = 3)
+        print(len(docs))
+        print([len(doc.page_content) for doc in docs])
         return docs
-  
+    
+    def answer_already_retrieved(self,query: str, llm: str ):
+        return llm.invoke(query)
+
+
 
         

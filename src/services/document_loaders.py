@@ -14,6 +14,8 @@ class DocumentLoader:
                 if file_path.endswith(".csv"):
                     loader = CSVLoader(file_path)
                     data = loader.load()
+                    print(data)
+
                     context = "\n\n".join(str(p.page_content) for p in data)
                     docs += context
             except Exception as e:

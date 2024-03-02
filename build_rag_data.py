@@ -10,7 +10,7 @@ from langchain_core.runnables import ConfigurableField
 
 parser = argparse.ArgumentParser(description='retrieval and generation')
 parser.add_argument('--vector_store', type=str, default='chroma', help='vector store')
-parser.add_argument('--index_name', type=str, default='index', help='index name')
+parser.add_argument('--index_name', type=str, default='chroma_bge', help='index name')
 parser.add_argument('--embedding_provider', type=str, default='huggingface', help='embedding provider')
 parser.add_argument('--data_type', type = str, help='either train or test' )
 args = parser.parse_args()
@@ -37,7 +37,10 @@ if __name__ == "__main__":
             print()
    
             answer = retrieval.retrieve_only(embedding_function=embeddings.get_embedding_function(), query=row['Question Text'])
-            string_answer = '\n'.join([doc.page_content for doc in answer])
+            # Build the string answer
+            string_answer = '\n'.join([f"Context {i+1}: {doc.page_content}, Reference: {doc.metadata['source']}, Paragraph: {doc.metadata['paragraph']}" for i, doc in enumerate(answer)])
+            # Print the string answer
+            # print(string_answer)
             # print(f"Answer: {string_answer}")
             # print(f"Actual: {row['Question Answer']}")
             # print(f'Paragraph: {row["Paragraph(s) Number"]}')
@@ -49,6 +52,8 @@ if __name__ == "__main__":
             print("<--------------------------------------------------------------------------------------->")
         except Exception as e:
             print(f"Error: {e} in row: {row}")
+        
+        
 
 
 

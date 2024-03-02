@@ -5,8 +5,6 @@ from langchain_openai import ChatOpenAI
 from langchain_community.chat_models import ChatOllama
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_community.llms import HuggingFaceHub
-from langchain_community.llms.huggingface_pipeline import HuggingFacePipeline
-from transformers import AutoModelForCausalLM, AutoTokenizer, pipeline
 from dotenv import load_dotenv
 
 class Llms:

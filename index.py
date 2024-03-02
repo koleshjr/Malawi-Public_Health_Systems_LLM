@@ -4,7 +4,7 @@ from src.services.vector_databases import VectorStore
 from src.services.document_loaders import DocumentLoader
 from src.services.embeddings import Embeddings
 from src.services.splitters import Splitter
-from src.helpers.utils import prepare_context_data
+from src.helpers.utils import prepare_context_data, prepare_docs_list
 from src.helpers.config import Config
 warnings.filterwarnings("ignore")
 
@@ -19,12 +19,17 @@ if __name__ == '__main__':
     splitter = Splitter('recursive')
     vector_store = VectorStore(args.vector_store, args.index_name)
     embedding_function = Embeddings(args.embedding_provider).get_embedding_function()
-    df = prepare_context_data(Config.folder_path)   
+ 
     # df.to_csv('src/data/context.csv', index=False)
     # docs = loader.load_and_get_text(Config.folder_path)
     # chunks = splitter.split(docs)
+    # # print(chunks[:5])
+    docs_all= prepare_docs_list(Config.folder_path)   
+    print(len(docs_all))
+    # for chunk in docs_all:
+    #     # print(len(chunk.page_content))
+    #     assert count_tokens_advanced(chunk.page_content) <= 1000 , f"Chunk exceeds maximum size: {len(chunk.page_content)} words"
 
-    chunks = [str(chunk) for chunk in list(df.context.unique())]
-    print(len(chunks))
-    vector_store.store_embeddings(embedding_function, chunks)
+    # # print(docs_all[:5])
+    vector_store.store_embeddings(embedding_function, docs_all)
  

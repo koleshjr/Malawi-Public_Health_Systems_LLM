@@ -2,6 +2,7 @@ import os
 import pandas as pd
 import re
 import warnings
+from langchain.docstore.document import Document
 warnings.filterwarnings("ignore")
 
 def prepare_train_examples(train_filepath: str)-> pd.DataFrame:
@@ -88,5 +89,92 @@ def prepare_submit_files(df: pd.DataFrame):
         new_result_df = new_result_df.append(new_row, ignore_index=True)
 
     return new_result_df.fillna(0)
+def split_content(content, max_words=1000):
+    """
+    Splits the content into chunks of approximately `max_words` words each.
+    """
+    content = str(content)
+    words = content.split()
+    num_words = len(words)
+    num_chunks = (num_words + max_words - 1) // max_words  # Ceiling division to calculate number of chunks
 
+    chunks = []
+    for i in range(num_chunks):
+        start_index = i * max_words
+        end_index = min((i + 1) * max_words, num_words)
+        chunk = " ".join(words[start_index:end_index])
+        chunks.append(chunk)
+
+    return chunks
+
+def process_csv(folder_path, csv_file):
+    """
+    Reads the CSV file, processes content, and creates Document objects.
+    """
+    documents = []
+    booklet_number = extract_booklet_number(csv_file)
+    if booklet_number:
+        print(booklet_number)
+        # Create a DataFrame for each file with the format book_i
+        df = pd.read_excel(os.path.join(folder_path, csv_file))
+        df.columns = ['paragraph', 'content']
+        df['filename'] = booklet_number
+
+        # Assuming you have a CSV reader (e.g., using pandas)
+        for index, row in df.iterrows():
+            content = row["content"]
+            paragraph_number = row["paragraph"]
+            filename = row['filename']
+
+            if len(str(content).split()) > 1000:    
+                # Split content into chunks
+                content_chunks = split_content(content, max_words=1000)
+                for i, chunk in enumerate(content_chunks):
+                    doc = Document(
+                        page_content=chunk,
+                        metadata={
+                            "source": filename,
+                            "paragraph": paragraph_number,
+                        }
+                    )
+                    documents.append(doc)
+            else:
+                # No need to split
+                doc = Document(
+                    page_content=content,
+                    metadata={
+                        "source": filename,
+                        "paragraph": paragraph_number,
+                    }
+                )
+                documents.append(doc)
+
+    return documents
+
+
+
+def prepare_docs_list(folder_path: str):
+    # Initialize an empty list to store DataFrames
+    docs_all = []
+
+    for file in os.listdir(folder_path):
+        docs = process_csv(folder_path=folder_path, csv_file=file)
+        docs_all.extend(docs)
+    
+    return docs_all
+
+# Define the function to extract information
+def extract_info(column):
+    try:
+        column_value = column[0]  # Access the string element from the list
+        answer = column_value.split('[/INST] ')[-1].split(',\n\n')[0]
+        filename = column_value.split(',\n\n')[1]
+        paragraph = column_value.split(',\n\n')[2]
+        keywords = column_value.split(',\n\n')[3]
+        keywords = keywords.replace(' </s>', '')
+        keywords = keywords.replace('</s>', '')
+        return answer, filename, paragraph, keywords
+    except Exception as e:
+        print(f"Error: {e}")
+        return " ", " ", " ", " "
 
