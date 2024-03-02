@@ -2,6 +2,7 @@ class Config:
   # data configs
   folder_path = "src/data/"
   test_filepath = "src/competition_data/Test.csv"
+  test_filepath_with_rag = "src/output/test_with_rag.csv"
   submission_filepath = "src/competition_data/SampleSubmission.csv"
   train_filepath = "src/competition_data/Train.csv"
 

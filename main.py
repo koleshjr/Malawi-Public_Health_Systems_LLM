@@ -19,7 +19,8 @@ args = parser.parse_args()
 
 
 if __name__ == "__main__":
-    df_sub = load_test_data(test_filepath=Config.test_filepath)
+    df_sub = load_test_data(test_filepath=Config.test_filepath_with_rag)
+    df_sub.rename(columns={'Question Text': 'question'}, inplace=True)
     llm = Llms(model_provider=args.model_provider, model_name=args.model_name).get_chat_model()
     retrieval = Retrieval(vector_store=args.vector_store, index_name=args.index_name)
     embeddings = Embeddings(embedding_provider=args.embedding_provider)
@@ -33,10 +34,10 @@ if __name__ == "__main__":
             print()
    
             answer = retrieval.answer_already_retrieved(query=query, llm=llm)
-            print(f"Answer: {answer}")
+            print(f"Answer: {answer.content}")
             print()
 
-            df_sub.loc[row.Index, 'answer'] = answer
+            df_sub.loc[row.Index, 'answer'] = answer.content
 
 
             df_sub.to_csv(f"src/competition_data/submission_{args.model_name}_progress.csv", index=False)
@@ -44,6 +45,6 @@ if __name__ == "__main__":
         except Exception as e:
             print(f"Error: {e} in row: {row}")
     df_sub['filename'], df_sub['paragraph'], df_sub['keywords'] = zip(*df_sub['answer'].apply(extract_info))
-    prepare_submit_files(df_sub).to_csv("src/competition_data/submission_gemini.csv", index=False)
+    prepare_submit_files(df_sub).to_csv(f"src/competition_data/submission_{args.model_name}.csv", index=False)
 
     
