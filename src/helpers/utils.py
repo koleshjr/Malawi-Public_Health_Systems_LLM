@@ -166,7 +166,7 @@ def prepare_docs_list(folder_path: str):
 # Define the function to extract information
 def extract_info(column):
     try:
-        column_value = column[0]  # Access the string element from the list
+        column_value = column  # Access the string element from the list
         answer = column_value.split('[/INST] ')[-1].split(',\n\n')[0]
         filename = column_value.split(',\n\n')[1]
         paragraph = column_value.split(',\n\n')[2]

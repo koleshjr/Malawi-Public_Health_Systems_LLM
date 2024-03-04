@@ -16,6 +16,7 @@ class Llms:
     def get_chat_model(self):
         if self.model_provider == 'ollama':
             return ChatOllama(model = self.model_name)
+        
         elif self.model_provider == "hf_online":
             llm = HuggingFaceHub(
             repo_id=self.model_name, model_kwargs={"temperature": 0, "max_length": 264}
@@ -28,9 +29,6 @@ class Llms:
 
         elif self.model_provider == 'google':
             return ChatGoogleGenerativeAI(model = self.model_name, google_api_key=os.getenv('GOOGLE_API_KEY'))
-
- 
-
 
         else:
             raise Exception("Invalid model provider we currently support only ollama")
